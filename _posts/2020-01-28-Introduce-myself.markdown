@@ -1,0 +1,72 @@
+---
+layout: post
+title: "Introduce nh9k"
+date: 2020-01-28
+categories:
+  - NDMD
+description: ND's Mind
+image: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
+image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
+---
+I'm undergraduate student in Electronic Engineering from Yeungnam University in Korea. My research interests include deep learning and robotics
+
+
+<h3>Work Experience</h3>
+**Electronics and Telecommunications Research Institute** intern (2019.01 ~ 2019.02)
+
+<figure>
+	<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" alt="Placeholder"/>
+	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
+</figure>
+
+**NAVER WEBTOON CORP.** intern (2020.01 ~ 2019.02)
+
+<figure>
+	<img src="https://webtoonscorp.com/img/spot_logo.png" alt="Placeholder"/>
+	<figcaption>Naver Webtoon Corp.</figcaption>
+</figure>
+
+<blockquote>
+  Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
+  <cite>Pauline Kael</cite>
+</blockquote>
+
+<h4>Project</h4>
+Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
+
+<ol>
+  <li>Creating and Control **Humanoid** Robot(2016.03 ~ 2016.12)</li>
+  <li>Programming **Book Management System** Using **Linked List**(2016.07)</li>
+  <li>Control **Servo** motor Using **ATmega128**(2016.08)</li>
+  <li>Creating and Develop the **Wearable Walking Care**, **[Paper](http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full)**, **License** Registration in Progress(2017.03 ~ )</li>
+  <li>Develop **Soccer** Robot(2018.04 ~ 2018.11)</li>
+  <li>Develop **Face Recognition** Based Interactive Humanoid Using **OP2**(2018.04 ~ 2018.11)</li>
+  <li>Develop **Autonomous Driving** Robot, **Dual Copter**(2018.09 ~ 2018.11)</li>
+  <li>Creating **Touch Screen Based Loop Station** Using Rapsberry Pi and **QT**(2018.11 ~ 2018.12)</li>
+  <li>**Transfer Learning** of Model **Alexnet** for Image Classification to **Matlab**(2018.12)</li>
+  <li>**[AI-based Curling Robot](https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792) [Project](http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81)**(2018.01 ~ 2018.12)</li>
+  <li>Creating **Search** Algorithm(2019.05 ~ 2019.06)</li>
+  <li>**Custom Speech Synthesis** Project using **Multi-speaker-tacotron**(2019.03 ~ 2019.11)</li>
+</ol>
+
+<h4>Seminar and Education</h4>
+<ul>
+  <li>**37th Chinese Control Conference**(Wuhan-Chinese, 2018.07)</li>
+  <li>**[Workshop on Curling Informatics 2018](http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/)**(Kitami-Japan, 2018.08)</li>
+  <li>**2019 Daegu Smart City International Symposium**(Daegu-Korea, 2019.01)</li>
+  <li>[Briefing Session on the Nation's Robot Development Strategy](https://www.yeongnam.com/web/view.php?key=20190322.990011400573335)**(Daegu-Korea, The Headquarters of Hyundai Robotics, 2019.03)</li>
+</ul>
+
+<h4>Paper</h4>
+<ul>
+  <li>**[Wearable Walking Care Checking Gait Device Using the AHRS Sensor](http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full)**, International Journal of Fuzzy Logic and Intelligent Systems 2019;19(2):112 118 Published online July 1, 2019</li>
+  <li>**[Estimation of Curling Sheet Friction Factor by Pixelization](https://ieeexplore.ieee.org/document/8484130/references#references)**, 2018 37th Chinese Control Conference (CCC), 25-27 July 2018</li>
+  <li>**[Path prediction and acceleration algorithm using the direction of stone's motion](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8)**, Workshop on Curling Informatics 2018, 2-3 August 2018</li>
+</ul>
+
+
+<figure>
+  <img src="https://picsum.photos/2000/1200?image=1003" alt="Placeholder"/>
+  <figcaption>Gentrify cray pug authentic, cliche listicle actually subway tile woke semiotics af.</figcaption>
+</figure>
+
