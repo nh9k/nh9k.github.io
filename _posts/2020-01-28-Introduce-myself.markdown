@@ -42,15 +42,15 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 <h4>Work Experience</h4>
 Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
 
+<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="300px">
 <figure>
-	<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="500px"/>
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
 NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 
+<img src="https://webtoonscorp.com/img/spot_logo.png" width="300px">
 <figure>
-	<img src="https://webtoonscorp.com/img/spot_logo.png" width="500px"/>
 	<figcaption>Naver Webtoon Corp.</figcaption>
 </figure>
 
@@ -86,7 +86,9 @@ NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 
 <br>
 <h4>Contact</h4>
+<br>
 Kim, NanHee
+<br>
 <p>E-mail:</p> 
 <p>[1] Google: <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a></p>
 <p>[2] Naver:<a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
