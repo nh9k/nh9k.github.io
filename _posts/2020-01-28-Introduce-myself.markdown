@@ -11,7 +11,7 @@ image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 
 Hello!
 I'm undergraduate student in Electronic Engineering from Yeungnam University in Korea. 
-I studied at the school robot club, Powersupply that studies robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones, etc), control theory, simulation, micro controller, PCB, Telecommunications, Web, algorithm, Deep learning with rclab(robotics and control Lab).
+I studied at the school robot club, Powersupply that studies robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones, etc), control theory, simulation, micro controller, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab.).
 My research interest is mainly Generative model, Speech synthesis, Controlling robot and its applications.
 This topic includes image processing algorithms and controlling micro controller.
 Another topic of my research is image classification and tracking objects which uses at robots.
@@ -24,18 +24,28 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li>Creating and Control Humanoid Robot(2016.03 ~ 2016.12)</li>
   <li>Programming Book Management System Using Linked List(2016.07)</li>
   <li>Control Servo motor Using ATmega128(2016.08)</li>
+  <li>Control flashing intersecting LED using Transistor and Relay module(2017.02)</li>
+  <li>Digital watch using 7 Segment(2017.02)</li>
+  <li>Study ADC(Analog to Digital Converter)(2017.02)</li>
+  <li>Study MCU(AVR, Arduino)(2017.02)</li>
   <li>Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )</li>
-  <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper of Wearable Walking Care</a>
+  <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper of Wearable Walking Care</a> 
+  <li>Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)</li>
+  <li>Creating Rectangular and Hanning Window with Solving Various Problems using Matlab(2017.12)</li>
   <li>Develop Soccer Robot(2018.04 ~ 2018.11)</li>
   <li>Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11)</li>
+  <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&logNo=221832900828&categoryNo=12&parentCategoryNo=&from=thumbnailList">OP2 Videos</a>
   <li>Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)</li>
   <li>Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)</li>
   <li>Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)</li>
-  <li> AI-based Curling Robot(2018.01 ~ 2018.12)</li>
+  <li>Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12)</li>
+  <li>AI-based Curling Robot(2018.01 ~ 2018.12)</li>
   <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">Al-based Culing Robot</a>
-  <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">Introduction of Project</a>
-  <li> Creating Search Algorithm(2019.05 ~ 2019.06)</li>
-  <li> Custom Speech Synthesis Project using Multi-speaker-tacotron(2019.03 ~ 2019.11)</li>
+  <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">Introduction of Project, AI-based Curling Robot</a>
+  <li>Creating Search Algorithm(2019.05 ~ 2019.06)</li>
+  <li>Creating Text to Talkactive Image(2019.05 ~ 2019.06)</li>
+  <li>Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11)</li>
+  <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Custom Speech Synthesis Project</a>
 </ol>
 
 <br>
@@ -50,7 +60,7 @@ Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
 NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 
 <figure>
-	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="50%"></center>
+	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="40%"></center>
 	<figcaption>Naver Webtoon Corp.</figcaption>
 </figure>
 
@@ -79,7 +89,7 @@ NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 </ul>
 
 <br>
-Finally, I love this quote..
+Finally, I like this quote..
 <blockquote>
   Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
   <cite>Pauline Kael</cite>
