@@ -42,15 +42,15 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 <h4>Work Experience</h4>
 Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
 
-<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="300px">
 <figure>
+	<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="30%"></img>
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
 NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 
-<img src="https://webtoonscorp.com/img/spot_logo.png" width="300px">
 <figure>
+	<img src="https://webtoonscorp.com/img/spot_logo.png" width="30%"></img>
 	<figcaption>Naver Webtoon Corp.</figcaption>
 </figure>
 
@@ -79,20 +79,21 @@ NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 </ul>
 
 
-<blockquote>
-  Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
-  <cite>Pauline Kael</cite>
-</blockquote>
-
 <br>
 <h4>Contact</h4>
-<br>
-Kim, NanHee
+<p>Kim, NanHee</p>
 <br>
 <p>E-mail:</p> 
 <p>[1] Google: <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a></p>
-<p>[2] Naver:<a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
+<p>[2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
 <br>
 Blog:
 <p>[1] <a href="https://github.com/nh9k">Github</a></p>
 <p>[2] <a href="https://blog.naver.com/kimnanhee97">Naver</a></p>
+
+
+Finally, I love this quote..
+<blockquote>
+  Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
+  <cite>Pauline Kael</cite>
+</blockquote>
