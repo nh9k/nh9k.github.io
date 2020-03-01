@@ -43,14 +43,14 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
 
 <figure>
-	<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="30%">
+	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="60%"></center>
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
 NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 
 <figure>
-	<img src="https://webtoonscorp.com/img/spot_logo.png" width="30%">
+	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="50%"></center>
 	<figcaption>Naver Webtoon Corp.</figcaption>
 </figure>
 
