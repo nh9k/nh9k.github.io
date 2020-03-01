@@ -16,7 +16,7 @@ My research interest is mainly Generative model, Speech synthesis, Controlling r
 This topic includes image processing algorithms and controlling micro controller.
 Another topic of my research is image classification and tracking objects which uses at robots.
 
-
+<br>
 <h4>Research Projects</h4>
 Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
 
@@ -25,35 +25,37 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li>Programming Book Management System Using Linked List(2016.07)</li>
   <li>Control Servo motor Using ATmega128(2016.08)</li>
   <li>Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )</li>
-  [Paper](http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full)
   <li>Develop Soccer Robot(2018.04 ~ 2018.11)</li>
   <li>Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11)</li>
   <li>Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)</li>
   <li>Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)</li>
   <li>Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)</li>
   <li> AI-based Curling Robot(2018.01 ~ 2018.12)</li>
-  [AI-based Curling Robot](https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792)
-  [Introduction of Project](http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81)
-  <li>Creating Search Algorithm(2019.05 ~ 2019.06)</li>
-  <li>Custom Speech Synthesis Project using Multi-speaker-tacotron(2019.03 ~ 2019.11)</li>
+  <li> Creating Search Algorithm(2019.05 ~ 2019.06)</li>
+  <li> Custom Speech Synthesis Project using Multi-speaker-tacotron(2019.03 ~ 2019.11)</li>
+  <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper of Wearable Walking Care</a>
 </ol>
-
+<p>[line 4] <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper of Wearable Walking Care</a></p>
+<p>[line 10] <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">Al-based Culing Robot</a></p>
+<p>[line 10] <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">Introduction of Project</a></p>
+<br>
 
 <h4>Work Experience</h4>
 Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
 
 <figure>
-	<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width=500 alt="Placeholder"/>
+	<img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="500px" alt="Placeholder"/>
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
 NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
 
 <figure>
-	<img src="https://webtoonscorp.com/img/spot_logo.png" width=500 alt="Placeholder"/>
+	<img src="https://webtoonscorp.com/img/spot_logo.png" width="500px" alt="Placeholder"/>
 	<figcaption>Naver Webtoon Corp.</figcaption>
 </figure>
 
+<br>
 <h4>Seminar and Education</h4>
 <ul>
   <li>37th Chinese Control Conference(Wuhan-Chinese, 2018.07)</li>
