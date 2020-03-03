@@ -31,6 +31,7 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li>Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )</li>
   <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper of Wearable Walking Care</a> 
   <li>Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221835305456">We Can Decide Demo</a>
   <li>Creating Rectangular and Hanning Window with Solving Various Problems using Matlab(2017.12)</li>
   <li>Develop Soccer Robot(2018.04 ~ 2018.11)</li>
   <li>Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11)</li>
@@ -38,14 +39,16 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li>Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)</li>
   <li>Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)</li>
   <li>Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221835564645">Transfer Learning of Model Alexnet Demo</a>
   <li>Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12)</li>
   <li>AI-based Curling Robot(2018.01 ~ 2018.12)</li>
-  <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">Al-based Culing Robot</a>
+  <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">Al-based Culing Robot NEWS</a>
   <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">Introduction of Project, AI-based Curling Robot</a>
   <li>Creating Search Algorithm(2019.05 ~ 2019.06)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221835581486">Search Algorithm PPT</a>
   <li>Creating Text to Talkactive Image(2019.05 ~ 2019.06)</li>
   <li>Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11)</li>
-  <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Custom Speech Synthesis Project</a>
+  <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Custom Speech Synthesis Project Demo</a>
 </ol>
 
 <br>
@@ -74,7 +77,6 @@ NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
   <li>Briefing Session on the Nation's Robot Development Strategy(Daegu-Korea, The Headquarters of Hyundai Robotics, 2019.03)</li>
   <a href="https://www.yeongnam.com/web/view.php?key=20190322.990011400573335">Briefing Session on the Nation's Robot Development Strategy</a>
 </ul>
-
 
 
 <br>
