@@ -1,4 +1,4 @@
----
+﻿---
 layout: post
 title: "Introduce nh9k"
 date: 2020-01-28
@@ -17,11 +17,12 @@ This topic includes image processing, computer vision, and controlling micro con
 Another topic of my research is image classification, detection, and tracking objects which uses at robots.
 
 <br>
-<h4>Research Projects</h4>
+<h4>Research Experience</h4>
 Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
 
 <ol>
   <li>Creating and Control Humanoid Robot(2016.03 ~ 2016.12)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221842147785">PPT</a> 
   <li>Programming Book Management System Using Linked List(2016.07)</li>
   <li>Control Servo motor Using ATmega128(2016.08)</li>
   <li>Control flashing intersecting LED using Transistor and Relay module(2017.02)</li>
@@ -55,13 +56,15 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 <br>
 <h4>Work Experience</h4>
 Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
+Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 
 <figure>
 	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="60%"></center>
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
-NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
+NAVER WEBTOON CORP. (2020.01 ~ 2019.02)
+AI research intern
 
 <figure>
 	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="40%"></center>
@@ -90,6 +93,28 @@ NAVER WEBTOON CORP. intern (2020.01 ~ 2019.02)
   <li>Path prediction and acceleration algorithm using the direction of stone's motion, Workshop on Curling Informatics 2018, 2-3 August 2018</li>
   <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">Paper site</a>
 </ul>
+
+
+<br>
+<h4>Awards</h4>
+<ul>
+  <li>Electronic Engineering Creative Research Convergence Design – Grand Prize (Sep, 2019)</li>
+	<ul>
+		<li>Learning Multi-Speaker-Tacotron model with data that includes Seok-Hee Son (News anchor), in-na Yoo (actress), Korean corpus, Ju-Hyung Lee (Team), and Nan-Hee Kim</li>
+		<li>Created custom voise synthesis services using web, Flask-Python</li>
+	</ul>
+  <li>Convergence CDP(Capstone Design Project) Competition – Silver Prize (Sep, 2017)</li>
+	<ul>
+		<li>Created Wearable Walking Care that can attachable various shoes and measure various values like gait type, number of steps</li>
+		<li>Paper published at International Journal of Fuzzy Logic and Intelligent Systems 2019</li>
+		<li>License registration in progress (Jan 2019)</li>
+		<li>Participated at E2FESTA (Engineering Education Festa) 2017</li>
+	</ul>
+  <li>Own Drone Autonomous Driving Competition - Encouragement Prize (Sep, 2018)</li>
+  	<ul>
+		<li>Created Dual copter and participated as a team advisor</li>
+	</ul>
+ </ul>
 
 <br>
 Finally, I like this quote..
