@@ -10,7 +10,7 @@ image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 ---
 
 Hello!
-I'm undergraduate student in Electronic Engineering from Yeungnam University in Korea. 
+I graduated from Department of Electronic Engineering at Yeungnam University in Korea. 
 I studied at the school robot club, Powersupply that studies robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones, etc), control theory, simulation, micro controller, autonomous driving, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab).
 My research interest is mainly Generative model, Controlling robot, Speech synthesis, and its applications.
 This topic includes image processing, computer vision, and controlling micro controller using various sensors.
