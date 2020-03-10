@@ -26,11 +26,14 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li>Programming Book Management System Using Linked List(2016.07)</li>
   <li>Control Servo motor Using ATmega128(2016.08)</li>
   <li>Control flashing intersecting LED using Transistor and Relay module(2017.02)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo and Pdf</a> 
   <li>Digital watch using 7 Segment(2017.02)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221835313918">Pdf</a> 
   <li>Study ADC(Analog to Digital Converter)(2017.02)</li>
   <li>Study MCU(AVR, Arduino)(2017.02)</li>
   <li>Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )</li>
   <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper site</a> 
+  <a href="https://blog.naver.com/kimnanhee97/221842147785">IMU PPT</a> 
   <li>Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)</li>
   <a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a>
   <li>Creating Rectangular and Hanning Window with Solving Various Problems using Matlab(2017.12)</li>
@@ -42,6 +45,7 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li>Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)</li>
   <a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a>
   <li>Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12)</li>
+  <a href="https://blog.naver.com/kimnanhee97/221847029738">Demo</a>
   <li>AI-based Curling Robot(2018.01 ~ 2018.12)</li>
   <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">News</a>
   <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">Introduction</a>
@@ -55,7 +59,7 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 
 <br>
 <h4>Work Experience</h4>
-Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
+Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)  
 Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 
 <figure>
@@ -63,7 +67,7 @@ Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
-NAVER WEBTOON CORP. (2020.01 ~ 2019.02)
+NAVER WEBTOON CORP. (2020.01 ~ 2019.02)  
 AI research intern
 
 <figure>
