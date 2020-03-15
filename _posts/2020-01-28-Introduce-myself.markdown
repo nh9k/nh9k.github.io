@@ -9,11 +9,12 @@ image:
 image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 ---
 
-<h4>Kim, NanHee</h4> 
-<p>E-mail: [1] Google: <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a></p>
-<p>		   [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
-<p>  Blog: [1] <a href="https://github.com/nh9k">Github Repositories</a></p>
-<p>		   [2] <a href="https://blog.naver.com/kimnanhee97">Naver Blog</a></p>
+<h4>NanHee Kim</h4> 
+E-mail
+<p>[1] Google: <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a> , [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
+See also, My Activity here!!
+<p>[1] <a href="https://github.com/nh9k">Github Repositories</a> , [2] <a href="https://blog.naver.com/kimnanhee97">NaverBlog with Demo videos</a></p>
+<br><br>
 
 Hello!
 I graduated from Department of Electronic Engineering at Yeungnam University in Korea. 
@@ -27,40 +28,26 @@ Another topic of my research is image classification, detection, segmentation an
 Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
 
 <ol>
-  <li>Creating and Control Humanoid Robot(2016.03 ~ 2016.12)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221842147785">PPT</a> 
-  <li>Programming Book Management System Using Linked List(2016.07)</li>
-  <li>Control Servo motor Using ATmega128(2016.08)</li>
-  <li>Control flashing intersecting LED using Transistor and Relay module(2017.02)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo and Pdf</a> 
-  <li>Digital watch using 7 Segment(2017.02)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221835313918">Pdf</a> 
-  <li>Study ADC(Analog to Digital Converter)(2017.02)</li>
-  <li>Study MCU(AVR, Arduino)(2017.02)</li>
-  <li>Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )</li>
-  <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper site</a> 
-  <a href="https://blog.naver.com/kimnanhee97/221842147785">IMU PPT</a> 
-  <li>Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a>
-  <li>Creating Rectangular and Hanning Window with Solving Various Problems using Matlab(2017.12)</li>
-  <li>Develop Soccer Robot(2018.04 ~ 2018.11)</li>
-  <li>Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11)</li>
-  <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&logNo=221832900828&categoryNo=12&parentCategoryNo=&from=thumbnailList">OP2 Videos</a>
-  <li>Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)</li>
-  <li>Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)</li>
-  <li>Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a>
-  <li>Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221847029738">Demo</a>
-  <li>AI-based Curling Robot(2018.01 ~ 2018.12)</li>
-  <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">News</a>
-  <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">Introduction</a>
-  <li>Creating Search Algorithm(2019.05 ~ 2019.06)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221835581486">PPT</a>
-  <li>Creating Text to Talkactive Image(2019.05 ~ 2019.06)</li>
-  <a href="https://blog.naver.com/kimnanhee97/221837126215">PPT</a>
-  <li>Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11)</li>
-  <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Demo</a>
+  <li> Creating and Control Humanoid Robot(2016.03 ~ 2016.12) <a href="https://blog.naver.com/kimnanhee97/221842147785">PPT</a></li> 
+  <li> Programming Book Management System Using Linked List(2016.07)</li>
+  <li> Control Servo motor Using ATmega128(2016.08)</li>
+  <li> Control flashing intersecting LED using Transistor and Relay module(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo and pdf</a></li> 
+  <li> Digital watch using 7 Segment(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835313918">pdf</a> </li>
+  <li> Study ADC(Analog to Digital Converter)(2017.02)</li>
+  <li> Study MCU(AVR, Arduino)(2017.02)</li>
+  <li> Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ ) <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">PaperLink</a> <a href="https://blog.naver.com/kimnanhee97/221842147785">IMU study PPT</a></li> 
+  <li> Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06) <a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a></li>
+  <li> Creating Rectangular and Hanning Window with Solving Various Problems using Matlab(2017.12)</li>
+  <li> Develop Soccer Robot(2018.04 ~ 2018.11)</li>
+  <li> Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11) <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&logNo=221832900828&categoryNo=12&parentCategoryNo=&from=thumbnailList">Demo</a></li>
+  <li> Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)</li>
+  <li> Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)</li>
+  <li> Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12) <a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a></li>
+  <li> Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12) <a href="https://blog.naver.com/kimnanhee97/221847029738">Demo</a></li> 
+  <li> AI-based Curling Robot(2018.01 ~ 2018.12) <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">News</a> <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">News2</a></li>
+  <li> Creating Search Algorithm(2019.05 ~ 2019.06) <a href="https://blog.naver.com/kimnanhee97/221835581486">PPT</a></li>
+  <li> Creating Text to Talkactive Image(2019.05 ~ 2019.06) <a href="https://blog.naver.com/kimnanhee97/221837126215">PPT</a></li> 
+  <li> Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11) <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Demo</a></li>
 </ol>
 
 <br>
@@ -69,7 +56,7 @@ Electronics and Telecommunications Research Institute intern (2019.01 ~ 2019.02)
 Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 
 <figure>
-	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="60%"></center>
+	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="50%"></center>
 	<figcaption>Electronics and Telecommunications Research Institute</figcaption>
 </figure>
 
@@ -77,19 +64,18 @@ NAVER WEBTOON CORP. (2020.01 ~ 2019.02)
 AI research intern
 
 <figure>
-	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="40%"></center>
+	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="30%"></center>
 	<figcaption>Naver Webtoon Corp.</figcaption>
 </figure>
 
 <br>
 <h4>Seminar and Education</h4>
 <ul>
-  <li>2018 China International Robot Show(Shanghai-China, 2018.07)</li>
-  <li>37th Chinese Control Conference(Wuhan-China, 2018.07)</li>
-  <li>Workshop on Curling Informatics 2018(Kitami-Japan, 2018.08) <a href="http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/">link</a></li>
-  <li>2019 Daegu Smart City International Symposium(Daegu-Korea, 2019.01)</li>
-  <li>Briefing Session on the Nation's Robot Development Strategy(Daegu-Korea, The Headquarters of Hyundai Robotics, 2019.03)</li>
-  <a href="https://www.yeongnam.com/web/view.php?key=20190322.990011400573335">News link</a>
+  <li>2018 China International Robot Show(CiROS, Shanghai-China, 2018.07) <a href="http://en.ciros.com.cn/">link</a></li>
+  <li>37th Chinese Control Conference(CCC, Wuhan-China, 2018.07) <a href="http://ieeecss.org/event/37th-chinese-control-conference">link</a></li>
+  <li>Workshop on Curling Informatics 2018(WCI, Kitami-Japan, 2018.08) <a href="http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/">link</a></li>
+  <li>2019 Daegu Smart City International Symposium(Daegu-Korea, 2019.01) <a href="https://www.duco.or.kr/customer/notice/5130?currentPage=1">link</a></li>
+  <li>Briefing Session on the Nation's Robot Development Strategy(Daegu-Korea, The Headquarters of Hyundai Robotics, 2019.03) <a href="https://www.yeongnam.com/web/view.php?key=20190322.990011400573335">News</a></li>
 </ul>
 
 
