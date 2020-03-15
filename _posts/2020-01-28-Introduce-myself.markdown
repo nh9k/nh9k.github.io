@@ -98,7 +98,7 @@ AI research intern
 
 <br>
 <h3>Awards</h3>
-<h4>>Control Robots&Sensors&Boards</h4>
+<h4>>Control Robots,Sensors,Boards</h4>
 <ul>
   <li>Convergence CDP(Capstone Design Project) Competition – Silver Prize (Sep, 2017)</li>
 	<ul>
