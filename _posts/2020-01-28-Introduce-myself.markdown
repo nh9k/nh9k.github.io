@@ -127,13 +127,6 @@ AI research intern
 
 <br>
 <br>
-Finally, I like this quote..
-<blockquote>
-  Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
-  <cite>Pauline Kael</cite>
-</blockquote>
-<br>
-
 <h3>Personal Projects ALL Demo and PPT</h3>
 Powersupply
 <iframe width="544" height="306" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=DC7D033D69BD2241B5860FC3B833223888E9&outKey=V129f2e4cb1e01fb417d0994d9e29bba102c33c26c52855d95f1e994d9e29bba102c3" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>
@@ -164,3 +157,12 @@ Powersupply
   <li> Creating Search Algorithm(2019.05 ~ 2019.06) <iframe src="//www.slideshare.net/slideshow/embed_code/key/GDlibAHo0rPIou" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim" title="Searching algorithm(nanheekim)" target="_blank">Searching algorithm(nanheekim)</a> </strong> from <strong><a href="https://www.slideshare.net/ssuserf5270f" target="_blank">Nanhee Kim</a></strong> </div></li>
   <li> Creating Text to Talkactive Image(2019.05 ~ 2019.06) <iframe src="//www.slideshare.net/slideshow/embed_code/key/2Dh8MkLtY3kR4s" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssuserf5270f/creating-text-to-talk-active-imagenanheekim" title="Creating text to talk active image(nanheekim)" target="_blank">Creating text to talk active image(nanheekim)</a> </strong> from <strong><a href="https://www.slideshare.net/ssuserf5270f" target="_blank">Nanhee Kim</a></strong> </div></li> 
 </ol>
+
+<br>
+<br>
+Finally, I like this quote..
+<blockquote>
+  Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
+  <cite>Pauline Kael</cite>
+</blockquote>
+<br>
