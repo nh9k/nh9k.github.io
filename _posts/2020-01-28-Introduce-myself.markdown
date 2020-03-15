@@ -124,7 +124,8 @@ AI research intern
   <li>Academic Performance Scholarship, YeungnamUniv. (2016.03~2020.02)</li>
  </ul>
 
-<a href="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim">PPTLink</a>
+
+<iframe class="align-center" src="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
 
 <br>
 <br>
