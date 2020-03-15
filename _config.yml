@@ -5,7 +5,7 @@ google_analytics:
 
 title: ND's Mind
 description: 
-url: https://github.com/nh9k
+url: ""
 baseurl: ""
 twitter_username: 
 default_img: 
@@ -15,7 +15,7 @@ name:
 profile_img: 
 profile: 
 social:
-  github: 
+  github: https://github.com/nh9k
 
 # Build settings
 markdown: kramdown
