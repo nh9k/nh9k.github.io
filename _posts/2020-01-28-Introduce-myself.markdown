@@ -14,6 +14,7 @@ image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 <p>See also, My Activity here!! [1] <a href="https://github.com/nh9k">Github Repositories</a> , [2] <a href="https://blog.naver.com/kimnanhee97">NaverBlog with Demo videos</a></p>
 <br><br>
 
+<h3>Hello!</h3>
 Hello!
 I graduated from Department of Electronic Engineering at Yeungnam University in Korea. 
 I studied at the school robot club, Powersupply that studies robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones, etc), control theory, simulation, micro controller, autonomous driving, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab).
@@ -25,7 +26,7 @@ Another topic of my research is image classification, detection, segmentation an
 <h3>Personal Projects</h3>
 Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
 
-<h4>>Control Robots&Sensors&Boards</h4>
+<h4>>Control Robots,Sensors,Boards</h4>
 <ol>
   <li> Creating and Control Humanoid Robot(2016.03 ~ 2016.12) <a href="https://www.slideshare.net/ssuserf5270f/seminar-2legs-robotsnanheekim">PPTLink</a></li> 
   <li> Control Servo motor Using ATmega128(2016.08)</li>
@@ -124,8 +125,7 @@ AI research intern
   <li>Academic Performance Scholarship, YeungnamUniv. (2016.03~2020.02)</li>
  </ul>
 
-
-<iframe class="align-center" src="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/qtULbQO7qn2JDJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
 
 <br>
 <br>
