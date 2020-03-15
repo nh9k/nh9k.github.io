@@ -29,7 +29,7 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 <h4>>Control Robots,Sensors,Boards</h4>
 <ol>
   <li> Creating and Control Humanoid Robot(2016.03 ~ 2016.12) <a href="https://www.slideshare.net/ssuserf5270f/seminar-2legs-robotsnanheekim">PPTLink</a></li> 
-  <li> Control Servo motor Using ATmega128(2016.08)</li>
+  <li> Control Servo motor Using ATmega128(2016.08) <a href="https://www.slideshare.net/secret/bzBGYcmflWPqZn">PPTLink</a></li>
   <li> Control flashing intersecting LED using Transistor and Relay module(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/control-led-using-relay-module-and-transistornanheekim">PPTLink</a></li> 
   <li> Digital watch using 7 Segment(2017.02) <a href="https://www.slideshare.net/ssuserf5270f/digital-clock-using-7segmentnanheekim">PPTLink</a> </li>
   <li> Study ADC(Analog to Digital Converter), MCU(AVR, Arduino)(2017.02)</li>
@@ -125,38 +125,6 @@ AI research intern
   <li>Academic Performance Scholarship, YeungnamUniv. (2016.03~2020.02)</li>
  </ul>
 
-
-<h3>Personal Projects ALL PPT</h3>
-
-<h4>>Control Robots,Sensors,Boards</h4>
-<ol>
-  <li> Creating and Control Humanoid Robot(2016.03 ~ 2016.12) <a href="https://www.slideshare.net/ssuserf5270f/seminar-2legs-robotsnanheekim">PPTLink</a></li> 
-  <li> Control Servo motor Using ATmega128(2016.08)</li>
-  <li> Control flashing intersecting LED using Transistor and Relay module(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/control-led-using-relay-module-and-transistornanheekim">PPTLink</a></li> 
-  <li> Digital watch using 7 Segment(2017.02) <a href="https://www.slideshare.net/ssuserf5270f/digital-clock-using-7segmentnanheekim">PPTLink</a> </li>
-  <li> Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ ) <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">PaperLink</a> <a href="https://www.slideshare.net/ssuserf5270f/imu-sensornanheekim">IMU PPTLink</a></li> 
-  <li> Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11) <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&logNo=221832900828&categoryNo=12&parentCategoryNo=&from=thumbnailList">Demo</a></li>
-  <li> Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)</li>
-  <li> Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12) <a href="https://blog.naver.com/kimnanhee97/221847029738">Demo</a></li> 
-  <li> AI-based Curling Robot(2018.01 ~ 2018.12) <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">News</a> <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">News2</a></li>
-  <iframe src="//www.slideshare.net/slideshow/embed_code/key/qtULbQO7qn2JDJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-
-  </ol>
-<h4>>MachineLearning</h4>
-<ol>
-  <li> Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12) <a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/transfer-learning-of-model-alexnet-for-image-classification-to-matlab-nanheekim">PPTLink</a></li>
-  <li> Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11) <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Demo</a></li>
-</ol>
-<h4>>Programs and Algorithms(C,C++,Python,Matlab)</h4>
-<ol>
-  <li> Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06) <a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decideproposalnanheekim">ProposalPPT</a> 
-       <iframe src="//www.slideshare.net/slideshow/embed_code/key/qtULbQO7qn2JDJ" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
-  </li>
-  <li> Creating Search Algorithm(2019.05 ~ 2019.06) <a href="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim">PPTLink</a></li>
-  <li> Creating Text to Talkactive Image(2019.05 ~ 2019.06) <a href="https://www.slideshare.net/ssuserf5270f/creating-text-to-talk-active-imagenanheekim">PPTLink</a></li> 
-</ol>
-
-
 <br>
 <br>
 Finally, I like this quote..
@@ -164,7 +132,7 @@ Finally, I like this quote..
   Where there is a will, there is a way. If there is a chance in a million that you can do something, anything, to keep what you want from ending, do it. Pry the door open or, if need be, wedge your foot in that door and keep it open.
   <cite>Pauline Kael</cite>
 </blockquote>
-
-
 <br>
+
+<h3>Personal Projects ALL Demo and PPT</h3>
 
