@@ -9,6 +9,12 @@ image:
 image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 ---
 
+<h4>Kim, NanHee</h4> 
+<p>E-mail: [1] Google: <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a></p>
+<p>		   [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
+<p>  Blog: [1] <a href="https://github.com/nh9k">Github Repositories</a></p>
+<p>		   [2] <a href="https://blog.naver.com/kimnanhee97">Naver Blog</a></p>
+
 Hello!
 I graduated from Department of Electronic Engineering at Yeungnam University in Korea. 
 I studied at the school robot club, Powersupply that studies robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones, etc), control theory, simulation, micro controller, autonomous driving, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab).
@@ -78,12 +84,12 @@ AI research intern
 <br>
 <h4>Seminar and Education</h4>
 <ul>
-  <li>37th Chinese Control Conference(Wuhan-Chinese, 2018.07)</li>
-  <li>Workshop on Curling Informatics 2018(Kitami-Japan, 2018.08)</li>
-  <a href="http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/">Information</a>
+  <li>2018 China International Robot Show(Shanghai-China, 2018.07)</li>
+  <li>37th Chinese Control Conference(Wuhan-China, 2018.07)</li>
+  <li>Workshop on Curling Informatics 2018(Kitami-Japan, 2018.08) <a href="http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/">link</a></li>
   <li>2019 Daegu Smart City International Symposium(Daegu-Korea, 2019.01)</li>
   <li>Briefing Session on the Nation's Robot Development Strategy(Daegu-Korea, The Headquarters of Hyundai Robotics, 2019.03)</li>
-  <a href="https://www.yeongnam.com/web/view.php?key=20190322.990011400573335">News</a>
+  <a href="https://www.yeongnam.com/web/view.php?key=20190322.990011400573335">News link</a>
 </ul>
 
 
@@ -91,11 +97,11 @@ AI research intern
 <h4>Publications</h4>
 <ul>
   <li>Wearable Walking Care Checking Gait Device Using the AHRS Sensor, International Journal of Fuzzy Logic and Intelligent Systems 2019;19(2):112 118 Published online July 1, 2019</li>
-  <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper site</a>
+  <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">PaperLink</a>
   <li>Estimation of Curling Sheet Friction Factor by Pixelization, 2018 37th Chinese Control Conference (CCC), 25-27 July 2018</li>
-  <a href="https://ieeexplore.ieee.org/document/8484130/references#references">Paper site</a>
+  <a href="https://ieeexplore.ieee.org/document/8484130/references#references">>PaperLink</a>
   <li>Path prediction and acceleration algorithm using the direction of stone's motion, Workshop on Curling Informatics 2018, 2-3 August 2018</li>
-  <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">Paper site</a>
+  <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">>PaperLink</a>
 </ul>
 
 
@@ -129,12 +135,4 @@ Finally, I like this quote..
 
 
 <br>
-<h4>Contact</h4>
-<p>Kim, NanHee</p>
-<p>E-mail:</p> 
-<p>[1] Google: <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a></p>
-<p>[2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
-<br>
-Blog:
-<p>[1] <a href="https://github.com/nh9k">Github</a></p>
-<p>[2] <a href="https://blog.naver.com/kimnanhee97">Naver Blog</a></p>
+
