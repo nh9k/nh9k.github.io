@@ -10,8 +10,7 @@ image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 ---
 
 <h2>NanHee Kim @nh9k</h2> 
-E-mail
-<p>[1] <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a> , [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
+<p>E-mail here, [1] <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a> , [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
 See also, My Activity here!!
 <p>[1] <a href="https://github.com/nh9k">Github Repositories</a> , [2] <a href="https://blog.naver.com/kimnanhee97">NaverBlog with Demo videos</a></p>
 <br><br>
@@ -27,14 +26,14 @@ Another topic of my research is image classification, detection, segmentation an
 <h4>Personal Projects</h4>
 Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
 
-<h5>Control Robots&Sensors&Boards</h5>
+<h4>>Control Robots&Sensors&Boards</h4>
 <ol>
-  <li> Creating and Control Humanoid Robot(2016.03 ~ 2016.12) <a href="https://blog.naver.com/kimnanhee97/221842147785">PPT</a></li> 
+  <li> Creating and Control Humanoid Robot(2016.03 ~ 2016.12) <a href="https://www.slideshare.net/ssuserf5270f/seminar-2legs-robotsnanheekim">PPTLink</a></li> 
   <li> Control Servo motor Using ATmega128(2016.08)</li>
-  <li> Control flashing intersecting LED using Transistor and Relay module(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo and pdf</a></li> 
-  <li> Digital watch using 7 Segment(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835313918">pdf</a> </li>
+  <li> Control flashing intersecting LED using Transistor and Relay module(2017.02) <a href="https://blog.naver.com/kimnanhee97/221835318194">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/control-led-using-relay-module-and-transistornanheekim">PPTLink</a></li> 
+  <li> Digital watch using 7 Segment(2017.02) <a href="https://www.slideshare.net/ssuserf5270f/digital-clock-using-7segmentnanheekim">PPTLink</a> </li>
   <li> Study ADC(Analog to Digital Converter), MCU(AVR, Arduino)(2017.02)</li>
-  <li> Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ ) <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">PaperLink</a> <a href="https://www.slideshare.net/ssuserf5270f/imu-sensornanheekim">IMU PPT</a></li> 
+  <li> Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ ) <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">PaperLink</a> <a href="https://www.slideshare.net/ssuserf5270f/imu-sensornanheekim">IMU PPTLink</a></li> 
   <li> Develop Soccer Robot(2018.04 ~ 2018.11)</li>
   <li> Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11) <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&logNo=221832900828&categoryNo=12&parentCategoryNo=&from=thumbnailList">Demo</a></li>
   <li> Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)</li>
@@ -42,18 +41,18 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
   <li> Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12) <a href="https://blog.naver.com/kimnanhee97/221847029738">Demo</a></li> 
   <li> AI-based Curling Robot(2018.01 ~ 2018.12) <a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">News</a> <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">News2</a></li>
   </ol>
-<h5>MachineLearning</h5>
+<h4>>MachineLearning</h4>
 <ol>
-  <li> Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12) <a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a></li>
+  <li> Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12) <a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/transfer-learning-of-model-alexnet-for-image-classification-to-matlab-nanheekim">PPTLink</a></li>
   <li> Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11) <a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Demo</a></li>
 </ol>
-<h5>Programs and Algorithms(C,C++,Python,Matlab)</h5>
+<h4>>Programs and Algorithms(C,C++,Python,Matlab)</h4>
 <ol>
   <li> Programming Book Management System Using Linked List(2016.07)</li>
-  <li> Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06) <a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a></li>
+  <li> Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06) <a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decideproposalnanheekim">ProposalPPT</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decidefinalnanheekim">FinalPPT</a></li>
   <li> Creating Rectangular and Hanning Window with Solving Various Problems using Matlab(2017.12)</li>
-  <li> Creating Search Algorithm(2019.05 ~ 2019.06) <a href="https://blog.naver.com/kimnanhee97/221835581486">PPT</a></li>
-  <li> Creating Text to Talkactive Image(2019.05 ~ 2019.06) <a href="https://blog.naver.com/kimnanhee97/221837126215">PPT</a></li> 
+  <li> Creating Search Algorithm(2019.05 ~ 2019.06) <a href="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim">PPTLink</a></li>
+  <li> Creating Text to Talkactive Image(2019.05 ~ 2019.06) <a href="https://www.slideshare.net/ssuserf5270f/creating-text-to-talk-active-imagenanheekim">PPTLink</a></li> 
 </ol>
 
 <br>
@@ -99,7 +98,7 @@ AI research intern
 
 <br>
 <h4>Awards</h4>
-<h5>Control Robots&Sensors&Boards</h5>
+<h4>>Control Robots&Sensors&Boards</h4>
 <ul>
   <li>Convergence CDP(Capstone Design Project) Competition – Silver Prize (Sep, 2017)</li>
 	<ul>
@@ -113,7 +112,7 @@ AI research intern
 		<li>Created Dual copter and participated as a team advisor</li>
 	</ul>
  </ul>
-<h5>MachineLearning</h5>
+<h4>>MachineLearning</h4>
 <ul>
   <li>Electronic Engineering Creative Research Convergence Design – Grand Prize (Sep, 2019)</li>
 	<ul>
@@ -121,7 +120,7 @@ AI research intern
 		<li>Created custom voise synthesis services using web, Flask-Python</li>
 	</ul>
  </ul>
- <h5>Scholarships</h5>
+ <h4>>Scholarships</h4>
  <ul>
   <li>Academic Performance Scholarship, YeungnamUniv. (2016.03~2020.02)</li>
  </ul>
