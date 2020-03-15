@@ -11,8 +11,7 @@ image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 
 <h2>NanHee Kim @nh9k</h2> 
 <p>E-mail here, [1] <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a> , [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
-See also, My Activity here!!
-<p>[1] <a href="https://github.com/nh9k">Github Repositories</a> , [2] <a href="https://blog.naver.com/kimnanhee97">NaverBlog with Demo videos</a></p>
+<p>See also, My Activity here!! [1] <a href="https://github.com/nh9k">Github Repositories</a> , [2] <a href="https://blog.naver.com/kimnanhee97">NaverBlog with Demo videos</a></p>
 <br><br>
 
 Hello!
@@ -23,7 +22,7 @@ This topic includes image processing, computer vision, and controlling micro con
 Another topic of my research is image classification, detection, segmentation and tracking objects which uses at robots, autonomous driving car and drones, etc.
 
 <br>
-<h4>Personal Projects</h4>
+<h3>Personal Projects</h3>
 Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)** 
 
 <h4>>Control Robots&Sensors&Boards</h4>
@@ -56,7 +55,7 @@ Yeungnam Univ. **[Powersupply](https://cafe.naver.com/yupowersupply/1704)**
 </ol>
 
 <br>
-<h4>Work Experience</h4>
+<h3>Work Experience</h3>
 Electronics and Telecommunications Research Institute (2019.01 ~ 2019.02)  
 Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 
@@ -74,18 +73,18 @@ AI research intern
 </figure>
 
 <br>
-<h4>Seminar and Education</h4>
+<h3>Seminar and Education</h3>
 <ul>
-  <li>2018 China International Robot Show(CiROS, Shanghai-China, 2018.07) <a href="http://en.ciros.com.cn/">link</a></li>
-  <li>37th Chinese Control Conference(CCC, Wuhan-China, 2018.07) <a href="http://ieeecss.org/event/37th-chinese-control-conference">link</a></li>
-  <li>Workshop on Curling Informatics 2018(WCI, Kitami-Japan, 2018.08) <a href="http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/">link</a></li>
-  <li>2019 Daegu Smart City International Symposium(Daegu-Korea, 2019.01) <a href="https://www.duco.or.kr/customer/notice/5130?currentPage=1">link</a></li>
+  <li>2018 China International Robot Show(CiROS, Shanghai-China, 2018.07) <a href="http://en.ciros.com.cn/">Link</a></li>
+  <li>37th Chinese Control Conference(CCC, Wuhan-China, 2018.07) <a href="http://ieeecss.org/event/37th-chinese-control-conference">Link</a></li>
+  <li>Workshop on Curling Informatics 2018(WCI, Kitami-Japan, 2018.08) <a href="http://nlp.cs.kitami-it.ac.jp/curlingJP/workshop/">Link</a></li>
+  <li>2019 Daegu Smart City International Symposium(Daegu-Korea, 2019.01) <a href="https://www.duco.or.kr/customer/notice/5130?currentPage=1">Link</a></li>
   <li>Briefing Session on the Nation's Robot Development Strategy(Daegu-Korea, The Headquarters of Hyundai Robotics, 2019.03) <a href="https://www.yeongnam.com/web/view.php?key=20190322.990011400573335">News</a></li>
 </ul>
 
 
 <br>
-<h4>Publications</h4>
+<h3>Publications</h3>
 <ul>
   <li>Wearable Walking Care Checking Gait Device Using the AHRS Sensor, International Journal of Fuzzy Logic and Intelligent Systems 2019;19(2):112 118 Published online July 1, 2019</li>
   <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">PaperLink</a>
@@ -97,7 +96,7 @@ AI research intern
 
 
 <br>
-<h4>Awards</h4>
+<h3>Awards</h3>
 <h4>>Control Robots&Sensors&Boards</h4>
 <ul>
   <li>Convergence CDP(Capstone Design Project) Competition – Silver Prize (Sep, 2017)</li>
@@ -124,6 +123,9 @@ AI research intern
  <ul>
   <li>Academic Performance Scholarship, YeungnamUniv. (2016.03~2020.02)</li>
  </ul>
+
+https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim
+
 
 <br>
 <br>
