@@ -11,13 +11,14 @@ image-sm: https://avatars0.githubusercontent.com/u/56310078?s=460&v=4
 
 <h2>NanHee Kim @nh9k</h2> 
 <p>E-mail here, [1] <a href="kimnanhee97@gmail.com">kimnanhee97@gmail.com</a> , [2] Naver: <a href="kimnanhee97@naver.com">kimnanhee97@naver.com</a></p>
-<p>See also, My Activity here [1] <a href="https://github.com/nh9k">Github Repositories</a> , [2] <a href="https://blog.naver.com/kimnanhee97">Naver Blog</a></p>
+<p>See also, My Activity here [1] <a href="https://github.com/nh9k">Github</a> , [2] <a href="https://blog.naver.com/kimnanhee97">Blog</a></p>
 <br><br>
 
 <h3>Hello!</h3>  
 I'm Nanhee Kim.  
-Please, feel free to contact me, if you have any questions!  
+Please, feel free to contact me, if you have any questions!(anytime)
 
+<br>
 <h3>Research interest</h3>
 <ul>
     <li>Main, Loves</li>
