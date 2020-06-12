@@ -20,7 +20,7 @@
 }
 @media (max-width: $container-width) {
   .page-content {
-    width: 100vw;
+    width: 60vw;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -31,7 +31,7 @@
     align: middle;
     margin: 5px auto 25px;
     display: block;
-    max-width: 100vw;
+    max-width: 60vw;
   }
 }
 @media (max-width: $tablet-width) {
