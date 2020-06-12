@@ -79,31 +79,31 @@ You can see all the demo videos at the bottom of the page.
 <h4>1. Control(application)</h4>
 
 1. Creating and Control Humanoid Robot(2016.03 ~ 2016.12)  
-<a href="https://www.slideshare.net/ssuserf5270f/seminar-2legs-robotsnanheekim">PPT</a>  
+<a href="https://nh9k.github.io/control/Humanoid-Robot.html">PPT</a>  
 2. Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )  
-<a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper</a> <a href="https://www.slideshare.net/ssuserf5270f/imu-sensornanheekim">PPT</a>
+<a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper</a> <a href="https://nh9k.github.io/control/Wearable-Walking-Care.html">PPT</a>
 3. Develop Soccer Robot(2018.04 ~ 2018.11)
 4. Develop Face Recognition Based Interactive Humanoid Using OP2(2018.04 ~ 2018.11)  
-<a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&logNo=221832900828&categoryNo=12&parentCategoryNo=&from=thumbnailList">Demo</a>
+<a href="https://nh9k.github.io/control/Humanoid-Robot-OP2.html">Demo</a>
 5. Develop Autonomous Driving Robot, Dual Copter(2018.09 ~ 2018.11)
 6. Creating Touch Screen Based Loop Station Using Rapsberry Pi and QT(2018.11 ~ 2018.12)  
-<a href="https://www.slideshare.net/ssuserf5270f/digital-clock-using-7segmentnanheekim">PPT</a>
+<a href="https://nh9k.github.io/control/Loop-Station.html">PPT</a>
 7. Rhythm Games using Ultrasonic Sensors, ATmega128(2018.12)  
-<a href="https://blog.naver.com/kimnanhee97/221847029738">Demo</a> <a href="https://github.com/nh9k/Microcomputer-ATmega128">Source</a> 
+<a href="https://nh9k.github.io/control/Rhythm-Game.html">Demo</a> <a href="https://github.com/nh9k/Microcomputer-ATmega128">Source</a> 
 8. AI-based Curling Robot(2018.01 ~ 2018.12)  
-<a href="https://news.naver.com/main/read.nhn?mode=LPOD&mid=tvh&oid=448&aid=0000236792">News1</a>  <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">News2</a>  <a href="https://www.slideshare.net/ssuserf5270f/kalman-filternanheekim">PPT</a>
+<a href="https://nh9k.github.io/control/AI-Curling-Robot.html">News1 & PPT</a>  <a href="http://pr.yu.ac.kr/01/view.php?BOARD=news&IDX=1709&PAGE=1&SEARCH1=title&SEARCH2=%EC%BB%AC%EB%A7%81">News2</a>  
 
 <br>
 
 <h4>2. Control(Basic)</h4>
 1. Control Servo motor Using ATmega128(2016.08)  
-<a href="https://www.slideshare.net/ssuserf5270f/servo-motornanheekim">PPT</a></li>
+<a href="https://nh9k.github.io/control/Servo-motor.html">PPT</a>
 2. Control flashing intersecting LED using Transistor and Relay module(2017.02)  
-<a href="https://blog.naver.com/kimnanhee97/221835318194">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/control-led-using-relay-module-and-transistornanheekim">PPT</a>
+<a href="https://nh9k.github.io/control/Intersecting-LED.html">Demo & PPT</a>  
 3. Digital watch using 7 Segment(2017.02)  
-<a href="https://www.slideshare.net/ssuserf5270f/digital-clock-using-7segmentnanheekim">PPT</a>
+<a href="https://nh9k.github.io/control/Seven-Segemnt.html">PPT</a>
 4. Study ADC(Analog to Digital Converter), MCU(AVR, Arduino)(2017.02)  
-<a href="https://www.slideshare.net/ssuserf5270f/adcnanheekim">ADC_PPT</a> <a href="https://www.slideshare.net/ssuserf5270f/mcunanheekim">MCU_PPT</a>
+<a href="https://nh9k.github.io/control/ADC.html">ADC PPT</a> <a href="https://nh9k.github.io/control/MCU.html">MCU_PPT</a>
 5. Study OS(Operating System)(2020.03)  
 <a href="https://www.slideshare.net/ssuserf5270f/os-study-mindmapnanheekim">PPT</a> <a href="https://github.com/nh9k/ThreadExample">Source</a>
 
@@ -113,7 +113,7 @@ You can see all the demo videos at the bottom of the page.
 1. Programming Book Management System Using Linked List(2016.07)  
 <a href="https://www.slideshare.net/ssuserf5270f/book-management-systemnanheekim">PPT</a>
 2. Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)  
-<a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decideproposalnanheekim">Proposal_PPT</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decidefinalnanheekim">Final_PPT</a> <a href="https://github.com/nh9k/Project_yu">Source</a></li>
+<a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decideproposalnanheekim">Proposal_PPT</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decidefinalnanheekim">Final_PPT</a> <a href="https://github.com/nh9k/Project_yu">Source</a>
 3. Creating Search Algorithm(2019.05 ~ 2019.06)  
 <a href="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim">PPT</a> <a href="https://github.com/nh9k/Searching_Engine">Source</a>
 4. Creating Text to Talkactive Image(2019.05 ~ 2019.06)  
