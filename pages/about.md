@@ -103,7 +103,7 @@ You can see all the demo videos at the bottom of the page.
 3. Digital watch using 7 Segment(2017.02)  
 <a href="https://nh9k.github.io/control/Seven-Segemnt.html">PPT</a>
 4. Study ADC(Analog to Digital Converter), MCU(AVR, Arduino)(2017.02)  
-<a href="https://nh9k.github.io/control/ADC.html">ADC PPT</a> <a href="https://nh9k.github.io/control/MCU.html">MCU_PPT</a>
+<a href="https://nh9k.github.io/control/ADC.html">ADC PPT</a> <a href="https://nh9k.github.io/control/MCU.html">MCU PPT</a>
 5. Study OS(Operating System)(2020.03)  
 <a href="https://nh9k.github.io/control/OS.html">PPT</a> <a href="https://github.com/nh9k/ThreadExample">Source</a>
 
