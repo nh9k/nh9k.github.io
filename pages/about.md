@@ -105,28 +105,28 @@ You can see all the demo videos at the bottom of the page.
 4. Study ADC(Analog to Digital Converter), MCU(AVR, Arduino)(2017.02)  
 <a href="https://nh9k.github.io/control/ADC.html">ADC PPT</a> <a href="https://nh9k.github.io/control/MCU.html">MCU_PPT</a>
 5. Study OS(Operating System)(2020.03)  
-<a href="https://www.slideshare.net/ssuserf5270f/os-study-mindmapnanheekim">PPT</a> <a href="https://github.com/nh9k/ThreadExample">Source</a>
+<a href="https://nh9k.github.io/control/OS.html">PPT</a> <a href="https://github.com/nh9k/ThreadExample">Source</a>
 
 <br>
 
 <h4>3. Programs</h4>
 1. Programming Book Management System Using Linked List(2016.07)  
-<a href="https://www.slideshare.net/ssuserf5270f/book-management-systemnanheekim">PPT</a>
+<a href="https://nh9k.github.io/programs/Book-Management-System.html">PPT</a>
 2. Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)  
-<a href="https://blog.naver.com/kimnanhee97/221835305456">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decideproposalnanheekim">Proposal_PPT</a> <a href="https://www.slideshare.net/ssuserf5270f/we-can-decidefinalnanheekim">Final_PPT</a> <a href="https://github.com/nh9k/Project_yu">Source</a>
+<a href="https://nh9k.github.io/programs/We-Can-Decide.html">Demo & Proposal PPT & Final PPT</a>  <a href="https://github.com/nh9k/Project_yu">Source</a>
 3. Creating Search Algorithm(2019.05 ~ 2019.06)  
-<a href="https://www.slideshare.net/ssuserf5270f/searching-algorithmnanheekim">PPT</a> <a href="https://github.com/nh9k/Searching_Engine">Source</a>
+<a href="https://nh9k.github.io/programs/Search-Algorithm.html">PPT</a> <a href="https://github.com/nh9k/Searching_Engine">Source</a>
 4. Creating Text to Talkactive Image(2019.05 ~ 2019.06)  
-<a href="https://www.slideshare.net/ssuserf5270f/creating-text-to-talk-active-imagenanheekim">PPT</a> 
+<a href="https://nh9k.github.io/programs/Text-to-Talkactive-Image.html">PPT</a> 
 
 
 <br>
 
 <h4>4. Machine Learning</h4>
 1. Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)  
-<a href="https://blog.naver.com/kimnanhee97/221835564645">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/transfer-learning-of-model-alexnet-for-image-classification-to-matlab-nanheekim">PPT</a>
+<a href="https://nh9k.github.io/ml/Transfer-Learning.html">Demo & PPT</a>  
 2. Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11)  
-<a href="https://blog.naver.com/PostView.nhn?blogId=kimnanhee97&Redirect=View&logNo=221832888061&categoryNo=12&isAfterWrite=true&isMrblogPost=false&isHappyBeanLeverage=true&contentLength=3790">Demo</a> <a href="https://www.slideshare.net/ssuserf5270f/custom-tts-using-multispeakertacotronnanheekim">PPT</a>
+<a href="https://nh9k.github.io/ml/Custom-Service.html">Demo & PPT</a> <a href="https://github.com/nh9k/Custom-Speech-Synthesis-Service-using-Multi-speaker-tacotron">Source</a>
 3. Study Computer Vision, Image Processing  
 <a href="https://github.com/nh9k/Computer_vision">Source(CV)</a> <a href="https://github.com/nh9k/Digital_Image_Processing">Source(DIP)</a>
 
@@ -136,7 +136,7 @@ You can see all the demo videos at the bottom of the page.
 
 <h3>Activities</h3>
 <ul>
-  <li>Powersupply robot club(2016.03~2019.12) <a href="https://cafe.naver.com/yupowersupply/1704">Link</a></li>
+  <li>Powersupply robot club(2016.03~2019.12) <a href="https://nh9k.github.io/control/PowerSupply-Robot-Club.html">Video</a></li>
   <ul>
     <li>Robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones), Control theory, Simulation, Micro controller, Autonomous driving, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab)</li>
   </ul>
