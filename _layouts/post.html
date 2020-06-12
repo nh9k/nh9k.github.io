@@ -17,12 +17,6 @@ layout: default
       {% when '3' or '23' %}{{ d }}rd
       {% else %}{{ d }}th{% endcase %},
     {{ page.date | date: "%Y" }}
-    by
-    {% if page.author %}
-      {{ page.author }}
-    {% else %}
-      {{ site.author }}
-    {% endif %}
   </span>
 
   {% if page.image %}
@@ -34,15 +28,6 @@ layout: default
   <article>
     {{ content }}
   </article>
-
-  <div class="post-share">
-    <div class="post-date">{{ site.data.settings.sharing_button_prompt }}</div>
-    <div class="sharing-icons">
-      <a href="https://twitter.com/intent/tweet?text={{ page.title }}&amp;url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-      <a href="https://www.facebook.com/sharer/sharer.php?u={{ site.github.url }}{{ page.url }}&amp;title={{ page.title }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-      <a href="https://plus.google.com/share?url={{ site.github.url }}{{ page.url }}" target="_blank"><i class="fa fa-google-plus" aria-hidden="true"></i></a>
-    </div>
-  </div>
 
   <div class="related">
     <h2>{{ site.data.settings.related_posts }}</h2>
