@@ -1,3 +1,0 @@
-@Powersupply(YeungnamUniv.) @NanheeKim
-please contact, before using this file
-github: https://nh9k.github.io/

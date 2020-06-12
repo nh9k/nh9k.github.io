@@ -1,9 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\_posts",
-    "\\_sass"
+    "\\assets",
+    "\\pages",
+    "\\_data",
+    "\\_includes",
+    "\\_layouts",
+    "\\_posts"
   ],
-  "SelectedNode": "\\_sass\\_extends.scss",
+  "SelectedNode": "\\_posts\\2016-04-04-about-the-author.md",
   "PreviewInSolutionExplorer": false
 }
