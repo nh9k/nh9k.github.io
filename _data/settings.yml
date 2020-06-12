@@ -14,7 +14,10 @@ menu:
 - {name: 'Contact', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
-# social:
+social:
+  - {icon: 'github', link: 'https://github.com/nh9k'}
+  - {icon: 'instagram', link: 'https://blog.naver.com/kimnanhee97'}
+  - {icon: 'envelope', link: 'kimnanhee97@gmail.com'}
 # - {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
 # - {icon: 'envelope', link: 'kimnanhee97@gmail.com'}
 # - {icon: 'rss-square', link: 'feed.xml'}
