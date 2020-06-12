@@ -3,6 +3,8 @@ layout: misc
 title: Contact
 ---
 
+
+<br>
 I'm Nanhee Kim, @nh9k.  
 Please, feel free to contact me, if you have any questions!(anytime)  
 
