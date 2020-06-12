@@ -9,7 +9,7 @@ title: About
 
 로봇에 대한 관심으로 전자공학과에 입학하였고,  
 대학교 3학년까지 다양한 센서와 보드를 다뤄보며 기초를 공부했습니다.  
-2족 로봇 제어, AHRS 센서를 이용한 탈부착 가능한 걸음걸이 확인 프로젝트, 컬링 로봇 프로젝트, 드론, 축구 로봇 프로젝트를 진행했습니다.  
+2족 로봇 제어, AHRS 센서를 이용한 탈부착 가능한 걸음걸이 확인 장치 개발, 인공지능 컬링 로봇 개발, 드론, 축구 로봇 개발 프로젝트를 진행했습니다.  
 
 로봇을 다루면서 영상처리와 컴퓨터비전에 관심이 커졌고, MFC와 OpenCV를 사용해서 다양한 프로그램을 만들어보았고,  
 보드와 컴퓨터 비전이 합쳐진 형태의 프로젝트도 많이 진행하였습니다.  
@@ -34,7 +34,42 @@ title: About
     
 </ul>
 
+
 <br>
+<h3>Publications</h3>
+
+1. Wearable Walking Care Checking Gait Device Using the AHRS Sensor, International Journal of Fuzzy Logic and Intelligent Systems 2019(ijfis), 19(2) 112 118, July 1 2019  
+<a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper</a>
+
+2. Estimation of Curling Sheet Friction Factor by Pixelization, 2018 37th Chinese Control Conference (CCC), 25-27 July 2018  
+<a href="https://ieeexplore.ieee.org/document/8484130/references#references">Paper</a>
+
+3. Path prediction and acceleration algorithm using the direction of stone's motion, Workshop on Curling Informatics 2018(WCI), 2-3 August 2018  
+<a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">Paper</a>
+
+
+<br>
+
+<h3>Work Experience</h3>
+Electronics and Telecommunications Research Institute (2019.01 ~ 2019.02)  
+Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
+
+<figure>
+	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="40%"></center>
+</figure>
+
+<br>
+
+NAVER WEBTOON CORP. (2020.01 ~ 2019.02)  
+W AI Tech, AI research intern
+
+<figure>
+	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="20%"></center>
+</figure>
+
+
+<br>
+
 <h3>Personal Projects</h3>
 You can see all the demo videos at the bottom of the page.
 
@@ -110,18 +145,6 @@ You can see all the demo videos at the bottom of the page.
 </ul>
 
 
-<br>
-<h3>Publications</h3>
-
-1. Wearable Walking Care Checking Gait Device Using the AHRS Sensor, International Journal of Fuzzy Logic and Intelligent Systems 2019(ijfis), 19(2) 112 118, July 1 2019  
-<a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper</a>
-
-2. Estimation of Curling Sheet Friction Factor by Pixelization, 2018 37th Chinese Control Conference (CCC), 25-27 July 2018  
-<a href="https://ieeexplore.ieee.org/document/8484130/references#references">Paper</a>
-
-3. Path prediction and acceleration algorithm using the direction of stone's motion, Workshop on Curling Informatics 2018(WCI), 2-3 August 2018  
-<a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">Paper</a>
-
 
 
 <br>
@@ -156,22 +179,6 @@ You can see all the demo videos at the bottom of the page.
   <li>Academic Performance Scholarship, Yeungnam Univ. (2016.03~2020.02)</li>
 </ul>
 
-<br>
-
-<h3>Work Experience</h3>
-Electronics and Telecommunications Research Institute (2019.01 ~ 2019.02)  
-Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
-
-<figure>
-	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="40%"></center>
-</figure>
-
-NAVER WEBTOON CORP. (2020.01 ~ 2019.02)  
-W AI Tech, AI research intern
-
-<figure>
-	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="20%"></center>
-</figure>
 
 <br>
 <br>
