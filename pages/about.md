@@ -18,6 +18,7 @@ title: About
 <대학교 4학년~현재>  
 로봇의 두뇌 역할을 하는 딥러닝에 관심이 생겼고, 최근까지도 딥러닝을 공부하고 있습니다.  
 음성 합성 모델을 이용해서 개인의 음성 합성 서비스를 만들어 보거나, ImageNet으로 미리 훈련된 AlexNet을 이용해 불 이미지를 Transfer Learning 해보았습니다.    
+Machine Learning, Deep Learning 전반적인 공부와 함께, 아래의 세부 분야에 관심을 가지고 활동하고 있습니다.  
 
 현재도 도전하며 실력자가 되기 위해 매일 성장하고 있습니다.  
 
@@ -31,7 +32,7 @@ title: About
         <li>This topic includes</li>
     <ul>
         <li>robots, autonomous driving car: controlling micro controller, embedded boards and sensors</li>
-        <li>image classification, detection, segmentation, generative model, tracking objects and speech synthesis</li>
+        <li>image classification, detection, segmentation, generative model, tracking objects and speech synthesis, NLP</li>
         <li>computer vision, image processing</li>
     </ul>
     
@@ -106,6 +107,8 @@ You can see all the demo videos at the bottom of the page.
 <a href="https://nh9k.github.io/control/ADC.html">ADC PPT</a> <a href="https://nh9k.github.io/control/MCU.html">MCU PPT</a>
 5. Study OS(Operating System)(2020.03)  
 <a href="https://nh9k.github.io/control/OS.html">PPT</a> <a href="https://github.com/nh9k/ThreadExample">Source</a>
+6. Study RealSense camera(2020.05)  
+<a href="https://blog.naver.com/kimnanhee97/221950612512">Blog</a>  
 
 <br>
 
@@ -125,11 +128,12 @@ You can see all the demo videos at the bottom of the page.
 <h4>4. Machine Learning</h4>
 1. Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)  
 <a href="https://nh9k.github.io/ml/Transfer-Learning.html">Demo & PPT</a>  
-2. Custom Speech Synthesis using Multi-speaker-tacotron(2019.03 ~ 2019.11)  
+2. Custom Speech Synthesis Service using Multi-speaker-tacotron(2019.03 ~ 2019.11)  
 <a href="https://nh9k.github.io/ml/Custom-Service.html">Demo & PPT</a> <a href="https://github.com/nh9k/Custom-Speech-Synthesis-Service-using-Multi-speaker-tacotron">Source</a>
-3. Study Computer Vision, Image Processing  
+3. Study Computer Vision, Image Processing(2020.03)  
 <a href="https://github.com/nh9k/Computer_vision">Source(CV)</a> <a href="https://github.com/nh9k/Digital_Image_Processing">Source(DIP)</a>
-
+4. Study Pytorch(2020.03~)  
+<a href="https://github.com/nh9k/pytorch-implementation">Source(Pytorch-implementaton)</a>    
 
 
 <br>
