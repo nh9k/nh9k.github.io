@@ -12,13 +12,13 @@ title: About
 대학교 3학년까지 다양한 센서와 보드를 다뤄보며 기초를 공부했습니다.  
 2족 로봇 제어, AHRS 센서를 이용한 탈부착 가능한 걸음걸이 확인 장치 개발, 인공지능 컬링 로봇 개발, 드론, 축구 로봇 개발 프로젝트를 진행했습니다.  
 
-로봇을 다루면서 영상처리와 컴퓨터비전에 관심이 커졌고, MFC와 OpenCV를 사용해서 다양한 프로그램을 만들어보았습니다.  
-보드와 컴퓨터 비전이 합쳐진 형태의 프로젝트도 많이 진행하였습니다.  
+로봇을 다루면서 영상처리(Image Processing)와 컴퓨터비전(Computer Vision)에 관심이 커졌고, MFC와 OpenCV를 사용해서 다양한 프로그램을 만들어보았습니다.  
+보드(Embedded Board, MCU)와 컴퓨터 비전이 합쳐진 형태의 프로젝트도 많이 진행하였습니다.  
 
 <대학교 4학년~현재>  
 로봇의 두뇌 역할을 하는 딥러닝에 관심이 생겼고, 최근까지도 딥러닝을 공부하고 있습니다.  
-음성 합성 모델을 이용해서 개인의 음성 합성 서비스를 만들어 보거나, ImageNet으로 미리 훈련된 AlexNet을 이용해 불 이미지를 Transfer Learning 해보았습니다.    
-Machine Learning, Deep Learning 전반적인 공부와 함께, 아래의 세부 분야에 관심을 가지고 활동하고 있습니다.  
+딥러닝 음성 합성 모델을 이용해서 개인의 음성 합성 서비스를 만들어 보거나, ImageNet으로 미리 훈련된 AlexNet을 이용해 불 이미지를 Transfer Learning 해보았습니다.    
+현재는 Machine Learning(데이터 분석을 위한), Deep Learning 전반적인 공부와 함께 아래의 세부 분야에 관심을 가지고 활동하고 있습니다.  
 
 현재도 도전하며 실력자가 되기 위해 매일 성장하고 있습니다.  
 
@@ -32,7 +32,7 @@ Machine Learning, Deep Learning 전반적인 공부와 함께, 아래의 세부 
         <li>This topic includes</li>
     <ul>
         <li>robots, autonomous driving car: controlling micro controller, embedded boards and sensors</li>
-        <li>image classification, detection, segmentation, generative model, tracking objects and speech synthesis, NLP</li>
+        <li>image classification, detection, segmentation, generative model and Object tracking</li>
         <li>computer vision, image processing</li>
     </ul>
     
@@ -170,7 +170,7 @@ You can see all the demo videos at the bottom of the page.
   	<ul>
 		<li>Created Dual copter and participated as a team advisor</li>
 	</ul>
- </ul>
+</ul>
  
 <h4>MachineLearning</h4>
 <ul>
