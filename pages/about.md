@@ -32,7 +32,7 @@ title: About
         <li>This topic includes</li>
     <ul>
         <li>robots, autonomous driving car: controlling micro controller, embedded boards and sensors</li>
-        <li>image classification, detection, segmentation, generative model and Object tracking</li>
+        <li>image classification, detection, segmentation, generative model and object tracking</li>
         <li>computer vision, image processing</li>
     </ul>
     
@@ -55,6 +55,9 @@ title: About
 <br>
 
 <h3>Work Experience</h3>
+(Part-time job experience) Building an Image Processing DB for Object Recognition for ADAS (2017.03 ~ 2017.06)  
+(Part-time job experience) Building an Image Processing DB to Improve Fire Detection Performance Using Smart Camera (2017.11 ~ 2018.02)  
+  
 Electronics and Telecommunications Research Institute (2019.01 ~ 2019.02)  
 Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 
