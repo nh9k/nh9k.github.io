@@ -67,7 +67,7 @@ Regional Industry IT Convergence Lab, Winter research intern (Youth intern)
 
 <br>
 
-NAVER WEBTOON CORP. (2020.01 ~ 2019.02)  
+NAVER WEBTOON CORP. (2020.01 ~ 2020.02)  
 W AI Tech, AI research intern
 
 <figure>
