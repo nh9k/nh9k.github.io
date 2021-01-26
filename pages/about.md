@@ -27,7 +27,9 @@ title: About
 <ul>
   <li>Vision AI 논문을 읽고 Pytorch 및 Tensorflow-Keras로 1주일, 길게는 2주일이내(바쁘지 않을때) 모델 작성 가능!</li>
   <ul>
-    <li>특히 Classification, Segmentation, Generative model -> Pytorch로 모델 작성 / RNN, LSTM, CNN을 이용한 간단한 NLP, Sequences, Time Series 문제 풀이 -> Keras / 그 외 분야는 도전할 수 있음!</li>
+    <li>특히 Classification, Segmentation, Generative model -> Pytorch로 모델 작성</li>
+    <li>RNN, LSTM, CNN을 이용한 간단한 NLP, Sequences, Time Series 문제 풀이 -> Keras</li>
+    <li>그 외 분야는 도전할 수 있음!</li>
   </ul>
   <li>C/C++/C#으로 이루어진 큰 프로젝트 소스코드를 빠르게 분석할 수 있음</li>
   <ul>
@@ -323,6 +325,10 @@ You can see all the demo videos at the bottom of the page.
   <ul>
    <li>로봇 관련 전국 대학생 대표로 참여</li>
    <li>대통령을 비롯한 산,학,연 관계자 300여명 함께 참석</li>
+  </ul>
+  <li>2020 AI EXPO KOREA 2020 국제 인공지능 대전 (2020.10.27~2020.10.30) <a href="https://blog.naver.com/kimnanhee97/222129381637">My Blog Post</a></li>
+  <ul>
+   <li>인공지능 관심 분야 기업 부스 방문</li>
   </ul>
 
 </ul>
