@@ -4,7 +4,7 @@ title: "Transfer Learning of Model Alexnet for Fire Image Classification to Matl
 author: "nh9k"
 categories: ml
 tags: [ml,sample]
-image: Transfer.jpg
+image: Transfer.JPG
 ---
 <br>
 - Fine-tuned a pretrained Alexnet to perform classification on a new collection of images(fire image)  

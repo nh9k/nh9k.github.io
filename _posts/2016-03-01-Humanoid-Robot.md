@@ -4,7 +4,7 @@ title: "Creating and Control Humanoid Robot"
 author: "nh9k"
 categories: control
 tags: [control,sample]
-image: Humanoid2.jpg
+image: Humanoid2.JPG
 ---
 <br>
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/iODqs7Rzetljfm" width="1000" height="600" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe>    

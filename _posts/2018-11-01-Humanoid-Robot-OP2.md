@@ -4,7 +4,7 @@ title: "Develop Face Recognition Based Interactive Humanoid Using OP2"
 author: "nh9k"
 categories: control
 tags: [control,sample]
-image: Humanoid.jpg
+image: Humanoid.JPG
 ---
 <br>
 <iframe width="1000" height="600" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=6637ED87D3FE6649A3002B8ACBE8AB8C85E3&outKey=V124f740e5f489942b652b301d58fd194fb2a9a078196270debf4b301d58fd194fb2a" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>  

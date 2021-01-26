@@ -4,7 +4,7 @@ title: "Custom Speech Synthesis Service"
 author: "nh9k"
 categories: ml
 tags: [ml,sample]
-image: Custom.jpg
+image: Custom.JPG
 ---
 <br>
 아래는 데모 비디오와 PPT 발표 자료 입니다.

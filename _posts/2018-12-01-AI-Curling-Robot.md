@@ -4,7 +4,7 @@ title: "AI-based Curling Robot"
 author: "nh9k"
 categories: control
 tags: [control,sample]
-image: AI.jpg
+image: AI.JPG
 ---
 <br>
 <iframe width="1000" height="600" src="https://www.youtube.com/embed/6dFxgervPwc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  

@@ -4,7 +4,7 @@ title: "Creating <We Can Decide> Program for People Who Cannot Decide Easily Usi
 author: "nh9k"
 categories: programs
 tags: [programs,sample]
-image: We.jpg
+image: We.JPG
 ---
 <br>
 <iframe width="1000" height="600" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=5E3EBDF9C804362F8F7FAE67B781CF7C3C33&outKey=V1281ba76020cf586544ce30ba07b23705e8fed75d4178509cb42e30ba07b23705e8f" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>  
