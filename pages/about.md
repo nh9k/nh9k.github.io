@@ -5,10 +5,24 @@ title: About
 
 <br>
 <h3>Update:2021.01.26</h3>
+<h3>Contents table: </h3>
+
+1. About me!  
+2. Research Interest  
+3. Publication  
+4. Work Experience  
+5. Personal Projects  
+6. Groups  
+7. Activities  
+8. Certificate & License  
+9. Awards  
+10. Develop environment  
+11. Education  
 
 
 <br>
-<h3>About me. 바쁘시면 여기만 읽어보세요!</h3>
+<br>
+<h3>1. About me! 바쁘시면 여기만 읽어보세요!</h3>
 <h4>현재 있음!</h4>
 <ul>
   <li>Vision AI 논문을 읽고 Pytorch 및 Tensorflow-Keras로 1주일, 길게는 2주일이내(바쁘지 않을때) 모델 작성 가능!</li>
@@ -55,7 +69,8 @@ title: About
 
 
 <br>
-<h3>Research interest</h3>
+<br>
+<h3>2. Research interest</h3>
 
 <h4>대학교 1~3학년, 2016~2018</h4>
 로봇에 대한 관심으로 전자공학과에 입학하였고,  
@@ -81,8 +96,7 @@ title: About
    현재도 시간이 날때 틈틈히 모델 경량화를 공부하고 있습니다.  
 
 2. Webtoon 회사에서 Segmentation 프로젝트를 진행하면서 Segmentation에 관심이 생겼고,  
-   최근에는 Overfitting 이라는 딥러닝 모임을 통해  
-   당시 Computer vision으로는 완벽히 풀지 못했던 Segmentation 문제를 해결해보려는 시도를 가지는 중입니다.    
+   최근에는 Overfitting 이라는 딥러닝 모임을 통해 당시 Computer vision으로는 완벽히 풀지 못했던 Segmentation 문제를 해결해보려는 시도를 가지는 중입니다.    
      
 
 현재 다니고 있는 회사에서는 반도체 부분의 Segmentation, Classification, Detection 연구를 하고 있습니다.    
@@ -108,8 +122,8 @@ Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 모델 �
 
 
 <br>
-
-<h3>Publications</h3>  
+<br>
+<h3>3. Publications</h3>  
 
 1. Wearable Walking Care Checking Gait Device Using the AHRS Sensor, International Journal of Fuzzy Logic and Intelligent Systems 2019(ijfis), 19(2) 112 118, July 1 2019  
 <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Paper</a>
@@ -125,8 +139,8 @@ Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 모델 �
 
    
 <br>
-
-<h3>Work Experience</h3>
+<br>
+<h3>4. Work Experience</h3>
 <h4>(Part-time job experience) Building an Image Processing DB for Object Recognition for ADAS (2017.03 ~ 2017.06)  
 보조원 연구원</h4>
 - 딥러닝을 위한 보행자, 신호등 이미지 수집 및 어노테이션 작업  
@@ -139,11 +153,11 @@ Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 모델 �
   
 <h4>Electronics and Telecommunications Research Institute (Hyeonpung, Daegu, 2019.01 ~ 2019.02)  
 Regional Industry IT Convergence Lab, Winter research intern (Youth intern)</h4> 
-
+<br>
 <figure>
 	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="40%"></center>
 </figure>
-
+<br>
 - 매주 논문 세미나 참여 및 기본적인 딥러닝 이론 공부, 데이터셋 구축 및 분석, Image Classification 공부 및 Data Augmentaion 작업 
 - 활용 지식: Classification, Detection, Generative model, Data Augmentation, ...
 - 사용 기술: Python, TensorFlow1, PIL, Linux Command, Anaconda virtual environment, ...
@@ -161,9 +175,10 @@ W AI Tech, AI research intern</h4>
 - 활용 지식: Segmentation, Clustering, Edge Detector, Color Space, Filtering, Blob labeling, BFS, DFS, ...
 - 사용 기술: Python, OpenCV, Scikit-learn, NumPy, Github, Linux Command, Anaconda virtual environment, ...
 
-<br>
 
-<h3>Personal Projects</h3>
+<br>
+<br>
+<h3>5. Personal Projects</h3>
 You can see all the demo videos at the bottom of the page.
 
 <h4>1. Control(application)</h4>
@@ -262,9 +277,10 @@ You can see all the demo videos at the bottom of the page.
       <li>논문 읽고 직접 모델 구현 연습</li>
    </ul>
 
-<br>
 
-<h3>Group</h3>
+<br>
+<br>
+<h3>6. Groups</h3>
 <ul>
   <li>Powersupply robot club 파워서플라이 로봇동아리 (2016.03~2019.12) <a href="https://nh9k.github.io/control/PowerSupply-Robot-Club.html">Video</a></li>
   <ul>
@@ -286,8 +302,8 @@ You can see all the demo videos at the bottom of the page.
 
 
 <br>
-
-<h3>Activities</h3>
+<br>
+<h3>7. Activities</h3>
 <ul>
   <li>E2FESTA (Engineering Education Festa) 2017 전국 공학교육페스티벌 2017 (2017.11)</li>
   <ul>
@@ -312,10 +328,9 @@ You can see all the demo videos at the bottom of the page.
 </ul>
 
 
-
 <br>
-
-<h3>Certificate & License</h3>
+<br>
+<h3>8. Certificate & License</h3>
 <ul>
   <li>Google Developers Machine Learning Bootcamp 구글 머신러닝 부트캠프 수료증(Google Developers 구글 개발자, 2020.10~)</li>
   <li>TensorFlow Developer Certificate 텐서플로우 개발자 증명서(Tensorflow 텐서플로우, 2021.01~2024.01) <a href="https://www.credential.net/8b7f7f72-8b4c-4f63-a414-96ab33d6e4a4#gs.rqsf0s">Link</a></li>
@@ -326,10 +341,9 @@ You can see all the demo videos at the bottom of the page.
 </ul>
 
 
-
 <br>
-
-<h3>Awards</h3>
+<br>
+<h3>9. Awards</h3>
 <h4>Control</h4>
 <ul>
   <li>Convergence CDP(Capstone Design Project) Competition 융합 캡스톤 디자인 경진대회 – Silver Prize 은상 (Sep, 2017)</li>
@@ -361,8 +375,8 @@ You can see all the demo videos at the bottom of the page.
 
 
 <br>
-
-<h3>Develop environment</h3>
+<br>
+<h3>10. Develop environment</h3>
 <ul>
   <li>Loves</li>
   <ul>
@@ -387,8 +401,8 @@ You can see all the demo videos at the bottom of the page.
 
 
 <br>
-
-<h3>Education</h3>
+<br>
+<h3>11. Education</h3>
 <ul>
   <li>Yeungnam University</li>
   <ul>

@@ -4,7 +4,7 @@ title: "Control flashing intersecting LED using Transistor and Relay module"
 author: "nh9k"
 categories: control
 tags: [control,sample]
-image: city-2.jpg
+image: Intersecting.jpg
 ---
 <br>
 <iframe width="1000" height="600" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=2FBED84A794D18B671F323835F57D9D4836A&outKey=V125eb2c096b1ccfea00ee75b49f5c934775b61d8a4a4e709336fe75b49f5c934775b" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>  

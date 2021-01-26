@@ -4,7 +4,7 @@ title: "Rhythm Games using Ultrasonic Sensors, ATmega128"
 author: "nh9k"
 categories: control
 tags: [control,sample]
-image: cuba-4.jpg
+image: Rhythm.jpg
 ---
 <br>
 <iframe width="1000" height="600" src="https://serviceapi.nmv.naver.com/flash/convertIframeTag.nhn?vid=F95B2AEE791F629FB60157707F7CE007402B&outKey=V12612b22090b00ecdc5157aa820458275cd738cef358a773f55557aa820458275cd7" frameborder="no" scrolling="no" title="NaverVideo" allow="autoplay; gyroscope; accelerometer; encrypted-media" allowfullscreen></iframe>  
