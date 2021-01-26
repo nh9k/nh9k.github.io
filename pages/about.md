@@ -42,7 +42,7 @@ title: About
   <li>Computer vision 지식을 활용하여 Vision 문제를 발전시키고 해결할 수 있음!</li>
   <li>Image Data를 분석하고 인사이트를 발견할 수 있음!</li>
 </ul>
-
+<br>
 <h4>아직은 없음! or 부족한! 그러나 공부 중인! or 공부 예정인.</h4>
 <ul>
   <li>모델 경량화 기술을 활용할 수 있음!</li>
@@ -50,7 +50,7 @@ title: About
   <li>Segmentation 분야의 Panoptic/Few Show/Weakly-supervised Learning</li>
   <li>CNN, Time Series 데이터 등을 보고 취합하여 종합적으로 분석할 수 있음!</li>
 </ul>
-
+<br>
 <h4>현재는 발전시키고 있지 않지만, 과거에는 있었던 or 쉬고 있는 능력</h4>
 <ul>
   <li>시간이 충분하다면 포기하지 않고 로봇, 미니자율주행차, 드론을 제작할 수 있음!</li>
@@ -164,7 +164,7 @@ Regional Industry IT Convergence Lab, Winter research intern (Youth intern)</h4>
 
 <br>
 
-<h4>NAVER WEBTOON CORP. (Pangyo, Gyeonggi Seongnam, 2020.01 ~ 2020.02)  
+<h4>NAVER WEBTOON CORP. (Pangyo, Gyeonggi Seongnam, 2020.01 ~ 2020.02)   
 W AI Tech, AI research intern</h4>
 
 <figure>
