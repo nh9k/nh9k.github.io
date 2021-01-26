@@ -16,6 +16,8 @@ E-mail here,
   
 See also my activities here  
 [1] <a href="https://github.com/nh9k">github</a>  
-[2] <a href="https://blog.naver.com/kimnanhee97">personal blog</a>
+[2] <a href="https://blog.naver.com/kimnanhee97">personal blog</a>  
+[3] <a href="https://www.linkedin.com/in/난희-김">linked-in</a>  
+
 
 <br>
