@@ -22,10 +22,11 @@ title: About
 
 <br>
 <br>
+<br>
 <h3>1. About me! 바쁘시면 여기만 읽어보세요!</h3>
 <h4>현재 있음!</h4>
 <ul>
-  <li>Vision AI 논문을 읽고 Pytorch 및 Tensorflow-Keras로 1주일, 길게는 2주일이내(바쁘지 않을때) 모델 작성 가능!</li>
+  <li>Vision AI 논문을 읽고 Pytorch 및 Tensorflow-Keras로 1주일이내 모델 작성 가능!</li>
   <ul>
     <li>특히 Classification, Segmentation, Generative model -> Pytorch로 모델 작성</li>
     <li>RNN, LSTM, CNN을 이용한 간단한 NLP, Sequences, Time Series 문제 풀이 -> Keras</li>
@@ -35,7 +36,7 @@ title: About
   <ul>
     <li>1 솔루션내에 10 프로젝트 이상도 가능!</li>
   </ul>
-  <li>1주일내 원하는 기능의 소,중규모 C++/Python 프로젝트를 작성할 수 있음</li>
+  <li>1주일내 원하는 기능으로 이루어진 소,중규모 이상의 C++/Python 프로젝트를 작성할 수 있음</li>
   <ul>
     <li>그 후 부스트 효과로 빠른 시일내 대규모 프로젝트로 전환 가능!</li>
   </ul>
@@ -49,7 +50,7 @@ title: About
 <ul>
   <li>모델 경량화 기술을 활용할 수 있음!</li>
   <li>모델 배포 기술이 있음!</li>
-  <li>Segmentation 분야의 Panoptic/Few Show/Weakly-supervised Learning</li>
+  <li>Segmentation 분야의 Few Show/Self-supervised/Weakly-supervised Learning</li>
   <li>CNN, Time Series 데이터 등을 보고 취합하여 종합적으로 분석할 수 있음!</li>
 </ul>
 <br>
@@ -72,6 +73,7 @@ title: About
 
 <br>
 <br>
+<br>
 <h3>2. Research interest</h3>
 
 <h4>대학교 1~3학년, 2016~2018</h4>
@@ -87,27 +89,28 @@ title: About
 딥러닝 음성 합성 모델을 이용해서 개인의 음성 합성 서비스를 만들어 보거나, ImageNet으로 미리 훈련된 AlexNet을 이용해 불 이미지를 Transfer Learning 해보았습니다.    
 
 <h4>졸업 후~현재, 2020~</h4>
-현재는 반도체, 웹툰 2가지 분야에서 관심을 가지고 Vision AI 활동을 하고 있습니다.  
-최종적인 목표는 Segmentation / On-device AI 분야 전문가입니다.  
+현재는 'Vision AI' 중 특히 'Object Segmentation, Detection, Classification' 분야에서 새로운 도전을 시도하고 있습니다.  
+최종적인 목표는 Vision AI(Classification + Detection + Segmentation) / On-device AI 분야 전문가입니다.  
+다음 분야에서 특히 관심을 가지고 Vision AI 활동을 하고 있습니다.  
 
-1. 출신 학과가 전자공학과이고, 대학교 시절 공부하였던 반도체, 전자 분야 애정과 함께  
+1. <h5>반도체, 로봇</h4>
+   : 출신 학과가 전자공학과이고, 대학교 시절 공부하였던 반도체, 전자 분야 애정과 함께  
    로봇, 드론, 자율주행차 공부를 해왔기에 On-device AI에 관심이 갔습니다.  
    클라우드를 거치지 않고 자체 AI 계산을 통한 사람들의 Privacy를 지켜주며,   
    미래의 중요한 자율주행차 기술의 Latency를 극복하고,  
    지구 환경을 책임질 Energy Efficiency까지 가능한 모델 경량화 매력에 빠졌습니다.  
-   현재도 시간이 날때 틈틈히 모델 경량화를 공부하고 있습니다.  
+   현재 다니고 있는 회사에서 반도체 부분의 Segmentation, Detection, Classification 연구를 통해,  
+   Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 틈틈히 경량화를 공부하고 있습니다.
 
-2. Webtoon 회사에서 Segmentation 프로젝트를 진행하면서 Segmentation에 관심이 생겼고,  
+1. <h5>Webtoon</h5>
+   : 웹툰 회사에서 Segmentation 프로젝트를 진행하면서 Segmentation에 관심이 생겼고,  
    최근에는 Overfitting 이라는 딥러닝 모임을 통해 당시 Computer vision으로는 완벽히 풀지 못했던 Segmentation 문제를 해결해보려는 시도를 가지는 중입니다.    
      
-
-현재 다니고 있는 회사에서는 반도체 부분의 Segmentation, Classification, Detection 연구를 하고 있습니다.    
-Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 모델 경량화도 함께 공부하고 있습니다.  
-  
+   
 현재도 도전하며 실력자가 되기 위해 매일 성장하고 있습니다.  
 관심있는 세부분야를 정리하면 다음과 같습니다.  
 
-
+<br>
 <ul>
     <li>Main Loves</li>
     <ul>
@@ -118,11 +121,12 @@ Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 모델 �
         <li>segmentation, classification, detection, generative model</li>
         <li>computer vision, image processing</li>
         <li>model compression</li>
+        <li>self-supervised, weakly-supervised, few shot learning</li>
     </ul>
     
 </ul>
 
-
+<br>
 <br>
 <br>
 <h3>3. Publications</h3>  
@@ -137,9 +141,9 @@ Throughput이 중요한 빠른 공정에서의 모델 적용을 위해 모델 �
 <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">Paper</a>
 
 3. CHECKING APPARATUS FOR WALKING PATTERNS WITH ATTACHABLE TO SHOES, 2018  
-<a href="https://doi.org/10.8080/1020180149316">Patent</a>
-
+<a href="https://doi.org/10.8080/1020180149316">Patent</a>  
    
+<br>
 <br>
 <br>
 <h3>4. Work Experience</h3>
@@ -180,6 +184,7 @@ W AI Tech, AI research intern</h4>
 
 <br>
 <br>
+<br>
 <h3>5. Personal Projects</h3>
 You can see all the demo videos at the bottom of the page.
 
@@ -205,6 +210,12 @@ You can see all the demo videos at the bottom of the page.
       <li>C++ 문제 해결 역량 향상, 칼만 필터 지식 획득</li>
    </ul>
 
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264132-18c50f80-9a24-11eb-837c-a6228072b4cf.png" width="100%"></center>
+</figure>
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264172-4f028f00-9a24-11eb-8d60-28ff5e06dff5.png" width="100%"></center>
+</figure>
 
 <br>
 
@@ -222,6 +233,10 @@ You can see all the demo videos at the bottom of the page.
 6. Study RealSense camera(2020.05)  
 <a href="https://blog.naver.com/kimnanhee97/221950612512">Blog</a>  
 
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264676-3647a880-9a27-11eb-88d7-150b7609a5a2.png" width="100%"></center>
+</figure>
+
 <br>
 
 <h4>3. Programs</h4>
@@ -234,6 +249,9 @@ You can see all the demo videos at the bottom of the page.
 4. Creating Text to Talkactive Image Using C++(2019.05 ~ 2019.06)  
 <a href="https://nh9k.github.io/programs/Text-to-Talkactive-Image.html">PPT</a> 
 
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264334-30e95e80-9a25-11eb-9878-ab2a61d0f2a9.png" width="100%"></center>
+</figure>
 
 <br>
 
@@ -279,7 +297,12 @@ You can see all the demo videos at the bottom of the page.
       <li>논문 읽고 직접 모델 구현 연습</li>
    </ul>
 
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264450-0055f480-9a26-11eb-8130-9935659e5d62.png" width="100%"></center>
+</figure>
 
+
+<br>
 <br>
 <br>
 <h3>6. Groups</h3>
@@ -289,20 +312,30 @@ You can see all the demo videos at the bottom of the page.
     <li>Robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones), Control theory, Simulation, Micro controller, Autonomous driving, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab)</li>
     <li>회장 1년, 부회장 1년, 회원 2년</li>
   </ul>
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264887-8bd08500-9a28-11eb-8cdc-d37368f5e955.png" width="80%"></center>
+  </figure>
   <li>Overfitting-ai-community 오버피팅 딥러닝 커뮤니티 (2020.07~) <a href="https://github.com/overfitting-ai-community">Link</a></li>
   <ul>
     <li>Basic Course 임시 리더</li>
     <li>Mask R-CNN을 활용한 Udemy 교육 수료, Segmentation Task에서 Toy Project 진행</li>
   </ul>
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264886-8b37ee80-9a28-11eb-8ea1-dc3ed212aff1.png" width="30%"></center>
+  </figure>
   <li>Google Machine Learning Boot Camp 구글 머신러닝 부트캠프 (2020.10~2021.01)</li>
   <ul>
     <li>Coursera DeepLearning 특화과정, TensorFlow Developer 과정 수료</li>
     <li>TensorFlow Developer Certificate 취득</li>
     <li>nota, voyagerx, hyperconnect, kakaomobility, dable, vroong, buzzvil, smilegate, cosmax, N_BT, 11번가, 당근마켓과 함께한 세션 토크</li>
   </ul>
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264885-8a9f5800-9a28-11eb-95fd-b9f3c80c2645.png" width="80%"></center>
+  </figure>
 </ul>
 
 
+<br>
 <br>
 <br>
 <h3>7. Activities</h3>
@@ -336,6 +369,7 @@ You can see all the demo videos at the bottom of the page.
 
 <br>
 <br>
+<br>
 <h3>8. Certificate & License</h3>
 <ul>
   <li>Google Developers Machine Learning Bootcamp 구글 머신러닝 부트캠프 수료증(Google Developers 구글 개발자, 2020.10~)</li>
@@ -346,7 +380,11 @@ You can see all the demo videos at the bottom of the page.
   <li>한자 급수 자격증 3급(대한 상공회의소, 2008)</li>
 </ul>
 
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114265132-16fe4a80-9a2a-11eb-9ede-7ac85c3bebb4.png" width="100%"></center>
+  </figure>
 
+<br>
 <br>
 <br>
 <h3>9. Awards</h3>
@@ -382,12 +420,22 @@ You can see all the demo videos at the bottom of the page.
 
 <br>
 <br>
+<br>
 <h3>10. Develop environment</h3>
+다음의 Code 들은 저의 Github 프로젝트와 연결되어 있습니다.
 <ul>
   <li>Loves</li>
   <ul>
-    <li>C, C++, Python</li>
+    <li>C, C++, Python</li>  
+    <ul>
+    <li>ALL: <a href="https://github.com/nh9k/algorithm-problem">Code1</a></li>
+    <li>C, C++: <a href="https://github.com/nh9k/Computer-vision">Code1</a>, <a href="https://github.com/nh9k/Searching-Engine">Code2</a>, <a href="https://github.com/nh9k/We-can-decide-MFC-program">Code3</a>, <a href="https://nh9k.github.io/programs/Book-Management-System.html">Link1</a></li>
+    <li>Python: <a href="https://github.com/nh9k/Custom-Speech-Synthesis-Service-using-Multi-speaker-tacotron">Code1</a>, <a href="https://github.com/nh9k/pytorch-implementation">Code2</a>, <a href="https://github.com/nh9k/Python-Sorting-with-Multi-processing">Code3</a></li>
+    </ul>
     <li>Pytorch, Numpy</li>
+    <ul>
+    <li>Pytorch: <a href="https://github.com/nh9k/pytorch-implementation">Code1</a></li>
+    </ul>
     <li>Linux command</li>
     <li>Windows, Mac OS</li>
     <li>Anaconda virtual environment</li>
@@ -396,16 +444,46 @@ You can see all the demo videos at the bottom of the page.
   <li>Likes</li>
   <ul>
     <li>MATLAB</li>
+    <ul>
+    <li>MATLAB: <a href="https://github.com/nh9k/Digital-Image-Processing">Code1</a></li>
+    </ul>
     <li>TensorFlow, Keras</li>
+    <ul>
+    <li>TensorFlow: <a href="https://github.com/nh9k/Custom-Speech-Synthesis-Service-using-Multi-speaker-tacotron">Code1</a></li>
+    </ul>
     <li>Linux Ubuntu</li>
   </ul>
   <li>Entry</li>
   <ul>
-    <li>C#, Java, CSS, HTML, JavaScript</li>
+    <li>C#, Java, CSS, HTML, JavaScript, Shell Script</li>
+    <ul>
+    <li>Java: <a href="https://github.com/nh9k/ThreadExample">Code1</a></li>
+    <li>HTML: <a href="https://github.com/nh9k/Custom-Speech-Synthesis-Service-using-Multi-speaker-tacotron/tree/master/web/templates">Code1</a></li>
+    <li>JavaScript: <a href="https://github.com/nh9k/Custom-Speech-Synthesis-Service-using-Multi-speaker-tacotron/tree/master/web/static/js">Code1</a></li>
+    <li>Shell Script: <a href="https://blog.naver.com/kimnanhee97/221884194285">Code1</a></li>
+    </ul>
+  </ul>
+  <li>Sensor, Board</li>
+  <ul>
+  <li>IMU(MPU6050, EBIMU-9DOFV3 AHRS): <a href="https://nh9k.github.io/control/Wearable-Walking-Care.html">Link1</a>, <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Link2</a></li>
+  <li>Camera(Webcam, Real sense): <a href="https://nh9k.github.io/programs/Text-to-Talkactive-Image.html">Link1</a>, <a href="https://blog.naver.com/kimnanhee97/221950612512">Link2</a>, <a href="https://nh9k.github.io/control/Humanoid-Robot-OP2.html">Link3</a></li>
+  <li>Screen(Rasberry pi touch, Character LCD module): <a href="https://nh9k.github.io/control/Loop-Station.html">Link1</a>, <a href="https://github.com/nh9k/Microcomputer-ATmega128/tree/master/5-LCD-display-and-print-float-type">Code1</a></li>
+  <li>LED(7-Segment Neo Pixel): <a href="https://nh9k.github.io/control/Intersecting-LED.html">Link1</a>, <a href="https://nh9k.github.io/control/Seven-Segemnt.html">Link2</a>, <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Link3</a>, <a href="https://github.com/nh9k/Microcomputer-ATmega128/tree/master/3-7-Segment-LED-display">Code1</a>, <a href="https://github.com/nh9k/Microcomputer-ATmega128/tree/master/1-LED-on-off">Code2</a></li>
+  <li>Ultrasonic wave(HC-SR04): <a href="https://github.com/nh9k/Microcomputer-ATmega128/tree/master/7-Rhythm-game-using-Ultrasonic-sensor">Code1</a></li>
+  <li>Infrared(Photo Transistor, Infrared Emitting Diodes)</li>
+  <li>GPS(Neo-6M)</li>
+  <li>AVR ATmega128: <a href="https://github.com/nh9k/Microcomputer-ATmega128">Code1</a></li>
+  <li>Raspberry pi(2,3): <a href="https://nh9k.github.io/control/Loop-Station.html">Link1</a></li>
+  <li>Arduino(Pro micro, uno, due): <a href="http://www.ijfis.org/journal/view.html?uid=870&page=&sort=&scale=10&all_k=&s_t=wearable&s_a=&s_k=&s_v=&s_n=&spage=&pn=search&year=&vmd=Full">Link1</a>, <a href="https://nh9k.github.io/control/Humanoid-Robot.html">Link2</a></li>
+  <li>Achro 5250 Exynos(Huins)</li>
+  <li>LIDAR LMS 511 PRO-20100: <a href="https://www.mdpi.com/2079-9292/9/3/457">Link1</a></li>
+  <li>Nvidia Jetson Xavier board</li>
+  <li>Robot OP2 internal PC-Control board: <a href="https://nh9k.github.io/control/Humanoid-Robot-OP2.html">Link1</a></li>
   </ul>
 </ul>
 
 
+<br>
 <br>
 <br>
 <h3>11. Education</h3>
@@ -417,8 +495,12 @@ You can see all the demo videos at the bottom of the page.
     <li>graduated 5th out of 106 undergraduates</li>
   </ul>
 </ul>
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="30%"></center>
+</figure>
 
-
+<br>
+<br>
 <br>
 <br>
 <br>
