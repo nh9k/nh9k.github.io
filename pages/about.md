@@ -9,7 +9,7 @@ title: About
 
 1. About me!  
 2. Research Interest  
-3. Publication  
+3. Publications  
 4. Work Experience  
 5. Personal Projects  
 6. Groups  
@@ -32,7 +32,7 @@ title: About
     <li>RNN, LSTM, CNN을 이용한 간단한 NLP, Sequences, Time Series 문제 풀이 -> Keras</li>
     <li>그 외 분야는 도전할 수 있음!</li>
   </ul>
-  <li>C/C++/C#으로 이루어진 큰 프로젝트 소스코드를 빠르게 분석할 수 있음</li>
+  <li>C/C++/C#/Python으로 이루어진 큰 프로젝트 소스코드를 빠르게 분석할 수 있음</li>
   <ul>
     <li>1 솔루션내에 10 프로젝트 이상도 가능!</li>
   </ul>
@@ -50,7 +50,7 @@ title: About
 <ul>
   <li>모델 경량화 기술을 활용할 수 있음!</li>
   <li>모델 배포 기술이 있음!</li>
-  <li>Segmentation 분야의 Few Show/Self-supervised/Weakly-supervised Learning</li>
+  <li>Classification/Detection/Segmentation 분야의 Few Show/Self-supervised/Weakly-supervised Learning</li>
   <li>CNN, Time Series 데이터 등을 보고 취합하여 종합적으로 분석할 수 있음!</li>
 </ul>
 <br>
@@ -66,7 +66,7 @@ title: About
   </ul>
   <li>전자공학도의 기본적인 소양!</li>
   <ul>
-    <li>오실로스코프, 파형발생기, 멀티미터기, verilog 언어 사용 등</li>
+    <li>오실로스코프, 파형발생기, 멀티미터기, Verilog 언어 사용 등</li>
   </ul>
 </ul>
 
@@ -89,13 +89,15 @@ title: About
 딥러닝 음성 합성 모델을 이용해서 개인의 음성 합성 서비스를 만들어 보거나, ImageNet으로 미리 훈련된 AlexNet을 이용해 불 이미지를 Transfer Learning 해보았습니다.    
 
 <h4>졸업 후~현재, 2020~</h4>
-현재는 'Vision AI' 중 특히 'Object Segmentation, Detection, Classification' 분야에서 새로운 도전을 시도하고 있습니다.  
-최종적인 목표는 Vision AI(Classification + Detection + Segmentation) / On-device AI 분야 전문가입니다.  
+현재는 Vision AI 중 특히 Object Segmentation, Detection, Classification 분야에서 새로운 도전을 하고 있습니다.  
+최종적인 목표는 Vision AI(Classification + Detection + Segmentation) and On-device AI 분야 전문가입니다.  
+
+<br>
 다음 분야에서 특히 관심을 가지고 Vision AI 활동을 하고 있습니다.  
 
 1. <h5>반도체, 로봇</h5>
    : 출신 학과가 전자공학과이고, 대학교 시절 공부하였던 반도체, 전자 분야 애정과 함께  
-   로봇, 드론, 자율주행차 공부를 해왔기에 On-device AI에 관심이 갔습니다.  
+   센서, 로봇, 드론, 자율주행차 공부를 해왔기에 On-device AI에 관심이 갔습니다.  
    클라우드를 거치지 않고 자체 AI 계산을 통한 사람들의 Privacy를 지켜주며,   
    미래의 중요한 자율주행차 기술의 Latency를 극복하고,  
    지구 환경을 책임질 Energy Efficiency까지 가능한 모델 경량화 매력에 빠졌습니다.  
@@ -105,12 +107,11 @@ title: About
 1. <h5>Webtoon</h5>
    : 웹툰 회사에서 Segmentation 프로젝트를 진행하면서 Segmentation에 관심이 생겼고,  
    최근에는 Overfitting 이라는 딥러닝 모임을 통해 당시 Computer vision으로는 완벽히 풀지 못했던 Segmentation 문제를 해결해보려는 시도를 가지는 중입니다.    
-     
    
+<br>
 현재도 도전하며 실력자가 되기 위해 매일 성장하고 있습니다.  
 관심있는 세부분야를 정리하면 다음과 같습니다.  
 
-<br>
 <ul>
     <li>Main Loves</li>
     <ul>
@@ -184,7 +185,9 @@ W AI Tech, AI research intern</h4>
 	<center><img src="https://webtoonscorp.com/img/spot_logo.png" width="20%"></center>
 </figure>
 
-- 자동채색 AI팀에서 웹툰 데이터 분석을 바탕으로 Computer vision 방식을 활용한 Segmentation algorithm 제작 및 테스트, 검토  
+- 자동채색 AI를 위한 Segmentation Task
+- 웹툰 데이터 분석 
+- Computer vision 방식을 활용한 Segmentation algorithm 설계 및 테스트, 검토  
 - 활용 지식: Segmentation, Clustering, Edge Detector, Color Space, Filtering, Blob labeling, BFS, DFS, ...
 - 사용 기술: Python, OpenCV, Scikit-learn, NumPy, Github, Linux Command, Anaconda virtual environment, ...
 
@@ -218,10 +221,7 @@ You can see all the demo videos at the bottom of the page.
    </ul>
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264132-18c50f80-9a24-11eb-837c-a6228072b4cf.png" width="150%"></center>
-</figure>
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264172-4f028f00-9a24-11eb-8d60-28ff5e06dff5.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267560-58492700-9a37-11eb-87d6-189a2c6f23ec.png" width="150%"></center>
 </figure>
 
 <br>
@@ -241,7 +241,7 @@ You can see all the demo videos at the bottom of the page.
 <a href="https://blog.naver.com/kimnanhee97/221950612512">Blog</a>  
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114265383-7dd03380-9a2b-11eb-8aee-163c998e1cb6.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267566-5e3f0800-9a37-11eb-9d78-1ef7588ddaf3.png" width="150%"></center>
 </figure>
 
 <br>
@@ -257,7 +257,7 @@ You can see all the demo videos at the bottom of the page.
 <a href="https://nh9k.github.io/programs/Text-to-Talkactive-Image.html">PPT</a> 
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114265386-7f016080-9a2b-11eb-870c-0b5f778f6a2f.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267568-5f703500-9a37-11eb-8ea9-65550b6e8a2b.png" width="150%"></center>
 </figure>
 
 <br>
@@ -305,7 +305,7 @@ You can see all the demo videos at the bottom of the page.
    </ul>
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264450-0055f480-9a26-11eb-8130-9935659e5d62.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267555-55e6cd00-9a37-11eb-9fb8-f35491b854d6.png" width="150%"></center>
 </figure>
 
 
@@ -315,32 +315,32 @@ You can see all the demo videos at the bottom of the page.
 <h3>6. Groups</h3>
 <ul>
   <li>Powersupply robot club 파워서플라이 로봇동아리 (2016.03~2019.12) <a href="https://nh9k.github.io/control/PowerSupply-Robot-Club.html">Video</a></li>
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114265410-9dfff280-9a2b-11eb-9191-40a9bc487a50.png" width="40%"></center>
+  </figure>  
   <ul>
     <li>Robotics(Humanoids, Quadruped robot, Hexapedal robot, Drones), Control theory, Simulation, Micro controller, Autonomous driving, PCB, Telecommunications, Web, algorithm, Deep learning with RCLab(Robotics and Control Lab)</li>
     <li>회장 1년, 부회장 1년, 회원 2년</li>
   </ul>
-  <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114265410-9dfff280-9a2b-11eb-9191-40a9bc487a50.png" width="40%"></center>
-  </figure>
   <li>Overfitting-ai-community 오버피팅 딥러닝 커뮤니티 (2020.07~) <a href="https://github.com/overfitting-ai-community">Link</a></li>
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264886-8b37ee80-9a28-11eb-8ea1-dc3ed212aff1.png" width="20%"></center>
+  </figure>  
   <ul>
     <li>Basic Course Arrange</li>
     <li>Mask R-CNN을 활용한 Udemy 교육 수료</li>
     <li>Webtoon Segmentation Task에서 Toy Project 진행</li>
     <li>Self-supervised Learning, Model compression, SOTA, Augmentation 등 스터디</li>
   </ul>
-  <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264886-8b37ee80-9a28-11eb-8ea1-dc3ed212aff1.png" width="20%"></center>
-  </figure>
   <li>Google Machine Learning Boot Camp 구글 머신러닝 부트캠프 (2020.10~2021.01)</li>
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264885-8a9f5800-9a28-11eb-95fd-b9f3c80c2645.png" width="40%"></center>
+  </figure>  
   <ul>
     <li>Coursera DeepLearning 특화과정, TensorFlow Developer 과정 수료</li>
     <li>TensorFlow Developer Certificate 취득</li>
     <li>nota, voyagerx, hyperconnect, kakaomobility, dable, vroong, buzzvil, smilegate, cosmax, N_BT, 11번가, 당근마켓과 함께한 세션 토크</li>
   </ul>
-  <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264885-8a9f5800-9a28-11eb-95fd-b9f3c80c2645.png" width="40%"></center>
-  </figure>
 </ul>
 
 
@@ -392,7 +392,7 @@ You can see all the demo videos at the bottom of the page.
 </ul>
 
   <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114265399-8cb6e600-9a2b-11eb-8110-632d31214ed0.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267559-57b09080-9a37-11eb-9af1-a891b6dce77d.png" width="150%"></center>
   </figure>
 
 <br>
@@ -433,7 +433,7 @@ You can see all the demo videos at the bottom of the page.
 <br>
 <br>
 <h3>10. Develop environment</h3>
-Code - my github source code, Link - my ppt
+Code - my github source code, Link - my ppt, etc
 <ul>
   <li>Loves</li>
   <ul>
@@ -499,7 +499,7 @@ Code - my github source code, Link - my ppt
 <br>
 <h3>11. Education</h3>
 <ul>
-  <li>Yeungnam University</li>
+  <li>Yeungnam University <a href="http://www.yu.ac.kr/index.php">Link</a></li>
   <ul>
     <li>Bachelor of Electronic Engineering (2016.03~2020.02)</li>
     <li>Total GPA of 4.12/4.5 (95.7 percentile)</li>
@@ -507,7 +507,7 @@ Code - my github source code, Link - my ppt
   </ul>
 </ul>
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="15%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="20%"></center>
 </figure>
 
 <br>
