@@ -93,7 +93,7 @@ title: About
 최종적인 목표는 Vision AI(Classification + Detection + Segmentation) / On-device AI 분야 전문가입니다.  
 다음 분야에서 특히 관심을 가지고 Vision AI 활동을 하고 있습니다.  
 
-1. <h5>반도체, 로봇</h4>
+1. <h5>반도체, 로봇</h5>
    : 출신 학과가 전자공학과이고, 대학교 시절 공부하였던 반도체, 전자 분야 애정과 함께  
    로봇, 드론, 자율주행차 공부를 해왔기에 On-device AI에 관심이 갔습니다.  
    클라우드를 거치지 않고 자체 AI 계산을 통한 사람들의 Privacy를 지켜주며,   
@@ -137,7 +137,7 @@ title: About
 2. Estimation of Curling Sheet Friction Factor by Pixelization, 2018 37th Chinese Control Conference (CCC), 25-27 July 2018  
 <a href="https://ieeexplore.ieee.org/document/8484130/references#references">Paper</a>
 
-3. Path prediction and acceleration algorithm using the direction of stone's motion, Workshop on Curling Informatics 2018(WCI), 2-3 August 2018  
+3. Path Prediction and Acceleration Algorithm Using the Direction of Stone's Motion, Workshop on Curling Informatics 2018(WCI), 2-3 August 2018  
 <a href="https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=190739&item_no=1&page_id=13&block_id=8">Paper</a>
 
 3. CHECKING APPARATUS FOR WALKING PATTERNS WITH ATTACHABLE TO SHOES, 2018  
@@ -148,12 +148,14 @@ title: About
 <br>
 <h3>4. Work Experience</h3>
 <h4>(Part-time job experience) Building an Image Processing DB for Object Recognition for ADAS (2017.03 ~ 2017.06)  
-보조원 연구원</h4>
+보조원 연구원</h4>  
+
 - 딥러닝을 위한 보행자, 신호등 이미지 수집 및 어노테이션 작업  
 <br>
-  
+
 <h4>(Part-time job experience) Building an Image Processing DB to Improve Fire Detection Performance Using Smart Camera (2017.11 ~ 2018.02)   
 보조원 연구원</h4>
+
 - 딥러닝을 위한 불 이미지 수집 및 어노테이션 작업  
 <br>
   
@@ -164,9 +166,14 @@ Regional Industry IT Convergence Lab, Winter research intern (Youth intern)</h4>
 	<center><img src="https://www.etri.re.kr/images/kor/layout_2019/logo.svg" width="40%"></center>
 </figure>
 <br>
-- 매주 논문 세미나 참여 및 기본적인 딥러닝 이론 공부, 데이터셋 구축 및 분석, Image Classification 공부 및 Data Augmentaion 작업 
-- 활용 지식: Classification, Detection, Generative model, Data Augmentation, ...
-- 사용 기술: Python, TensorFlow1, PIL, Linux Command, Anaconda virtual environment, ...
+
+- 딥러닝 실습, Data Augmentation  
+- 연구원님들의 매주 논문 세미나를 통한 Vision AI 지식 공부  
+- LeNet을 이용한 이진 분류, Pretrained ResNet 테스트  
+- 구글 머신러닝 단기집중 과정 수행 <a href="https://developers.google.com/machine-learning/crash-course">Link</a>  
+- 활용 지식: Classification, Detection, Generative model, Data Augmentation, ...  
+- 사용 기술: Python, TensorFlow1, PIL, Linux Command, Anaconda virtual environment, ...  
+
 
 <br>
 
@@ -211,10 +218,10 @@ You can see all the demo videos at the bottom of the page.
    </ul>
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264132-18c50f80-9a24-11eb-837c-a6228072b4cf.png" width="100%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264132-18c50f80-9a24-11eb-837c-a6228072b4cf.png" width="150%"></center>
 </figure>
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264172-4f028f00-9a24-11eb-8d60-28ff5e06dff5.png" width="100%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264172-4f028f00-9a24-11eb-8d60-28ff5e06dff5.png" width="150%"></center>
 </figure>
 
 <br>
@@ -234,7 +241,7 @@ You can see all the demo videos at the bottom of the page.
 <a href="https://blog.naver.com/kimnanhee97/221950612512">Blog</a>  
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264676-3647a880-9a27-11eb-88d7-150b7609a5a2.png" width="100%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114265383-7dd03380-9a2b-11eb-8aee-163c998e1cb6.png" width="150%"></center>
 </figure>
 
 <br>
@@ -250,7 +257,7 @@ You can see all the demo videos at the bottom of the page.
 <a href="https://nh9k.github.io/programs/Text-to-Talkactive-Image.html">PPT</a> 
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264334-30e95e80-9a25-11eb-9878-ab2a61d0f2a9.png" width="100%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114265386-7f016080-9a2b-11eb-870c-0b5f778f6a2f.png" width="150%"></center>
 </figure>
 
 <br>
@@ -298,7 +305,7 @@ You can see all the demo videos at the bottom of the page.
    </ul>
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264450-0055f480-9a26-11eb-8130-9935659e5d62.png" width="100%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264450-0055f480-9a26-11eb-8130-9935659e5d62.png" width="150%"></center>
 </figure>
 
 
@@ -313,15 +320,17 @@ You can see all the demo videos at the bottom of the page.
     <li>회장 1년, 부회장 1년, 회원 2년</li>
   </ul>
   <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264887-8bd08500-9a28-11eb-8cdc-d37368f5e955.png" width="80%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114265410-9dfff280-9a2b-11eb-9191-40a9bc487a50.png" width="40%"></center>
   </figure>
   <li>Overfitting-ai-community 오버피팅 딥러닝 커뮤니티 (2020.07~) <a href="https://github.com/overfitting-ai-community">Link</a></li>
   <ul>
-    <li>Basic Course 임시 리더</li>
-    <li>Mask R-CNN을 활용한 Udemy 교육 수료, Segmentation Task에서 Toy Project 진행</li>
+    <li>Basic Course Arrange</li>
+    <li>Mask R-CNN을 활용한 Udemy 교육 수료</li>
+    <li>Webtoon Segmentation Task에서 Toy Project 진행</li>
+    <li>Self-supervised Learning, Model compression, SOTA, Augmentation 등 스터디</li>
   </ul>
   <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264886-8b37ee80-9a28-11eb-8ea1-dc3ed212aff1.png" width="30%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264886-8b37ee80-9a28-11eb-8ea1-dc3ed212aff1.png" width="20%"></center>
   </figure>
   <li>Google Machine Learning Boot Camp 구글 머신러닝 부트캠프 (2020.10~2021.01)</li>
   <ul>
@@ -330,7 +339,7 @@ You can see all the demo videos at the bottom of the page.
     <li>nota, voyagerx, hyperconnect, kakaomobility, dable, vroong, buzzvil, smilegate, cosmax, N_BT, 11번가, 당근마켓과 함께한 세션 토크</li>
   </ul>
   <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114264885-8a9f5800-9a28-11eb-95fd-b9f3c80c2645.png" width="80%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114264885-8a9f5800-9a28-11eb-95fd-b9f3c80c2645.png" width="40%"></center>
   </figure>
 </ul>
 
@@ -363,7 +372,9 @@ You can see all the demo videos at the bottom of the page.
   <ul>
    <li>인공지능 관심 분야 기업 부스 방문</li>
   </ul>
-
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114266231-24b6ce80-9a30-11eb-91ef-1885a98e4f5e.png" width="150%"></center>
+  </figure>
 </ul>
 
 
@@ -381,7 +392,7 @@ You can see all the demo videos at the bottom of the page.
 </ul>
 
   <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114265132-16fe4a80-9a2a-11eb-9ede-7ac85c3bebb4.png" width="100%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114265399-8cb6e600-9a2b-11eb-8110-632d31214ed0.png" width="150%"></center>
   </figure>
 
 <br>
@@ -422,7 +433,7 @@ You can see all the demo videos at the bottom of the page.
 <br>
 <br>
 <h3>10. Develop environment</h3>
-다음의 Code 들은 저의 Github 프로젝트와 연결되어 있습니다.
+Code - my github source code, Link - my ppt
 <ul>
   <li>Loves</li>
   <ul>
@@ -496,7 +507,7 @@ You can see all the demo videos at the bottom of the page.
   </ul>
 </ul>
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="30%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="15%"></center>
 </figure>
 
 <br>
