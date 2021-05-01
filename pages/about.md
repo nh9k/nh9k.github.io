@@ -200,6 +200,10 @@ You can see all the demo videos at the bottom of the page.
 
 <h4>1. Control(application)</h4>
 
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267560-58492700-9a37-11eb-87d6-189a2c6f23ec.png" width="150%"></center>
+</figure>
+
 1. Creating and Control Humanoid Robot(2016.03 ~ 2016.12)  
 <a href="https://nh9k.github.io/control/Humanoid-Robot.html">PPT</a>  
 2. Creating and Develop the Wearable Walking Care, Paper, License Registration in Progress(2017.03 ~ )  
@@ -220,13 +224,17 @@ You can see all the demo videos at the bottom of the page.
       <li>C++ 문제 해결 역량 향상, 칼만 필터 지식 획득</li>
    </ul>
 
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267560-58492700-9a37-11eb-87d6-189a2c6f23ec.png" width="150%"></center>
-</figure>
+
 
 <br>
 
 <h4>2. Control(Basic)</h4>
+
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267568-5f703500-9a37-11eb-8ea9-65550b6e8a2b.png" width="150%"></center>
+</figure>
+
+
 1. Control Servo motor Using ATmega128(2016.08)  
 <a href="https://nh9k.github.io/control/Servo-motor.html">PPT</a>
 2. Control flashing intersecting LED using Transistor and Relay module(2017.02)  
@@ -256,13 +264,16 @@ You can see all the demo videos at the bottom of the page.
 4. Creating Text to Talkactive Image Using C++(2019.05 ~ 2019.06)  
 <a href="https://nh9k.github.io/programs/Text-to-Talkactive-Image.html">PPT</a> 
 
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267568-5f703500-9a37-11eb-8ea9-65550b6e8a2b.png" width="150%"></center>
-</figure>
+
 
 <br>
 
-<h4>4. Machine Learning</h4>
+<h4>4. Machine Learning</h4>  
+
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267555-55e6cd00-9a37-11eb-9fb8-f35491b854d6.png" width="150%"></center>
+</figure>
+  
 1. Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)  
 <a href="https://nh9k.github.io/ml/Transfer-Learning.html">Demo & PPT</a>  
    <ul>
@@ -304,9 +315,12 @@ You can see all the demo videos at the bottom of the page.
       <li>논문 읽고 직접 모델 구현 연습</li>
    </ul>
 
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267555-55e6cd00-9a37-11eb-9fb8-f35491b854d6.png" width="150%"></center>
-</figure>
+5. Study Model Compresssion(2021.01)  
+<a href="https://nh9k.github.io/ml/Model-Compression.html">PPT</a>  
+   
+6. Webtoon Segmentation(2021.03) - 업로드 중  
+<a href="https://github.com/overfitting-ai-community/basic-course">Source</a>    
+  
 
 
 <br>
