@@ -363,6 +363,11 @@ You can see all the demo videos at the bottom of the page.
 <br>
 <br>
 <h3>7. Activities</h3>
+
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114266231-24b6ce80-9a30-11eb-91ef-1885a98e4f5e.png" width="150%"></center>
+  </figure>
+
 <ul>
   <li>E2FESTA (Engineering Education Festa) 2017 전국 공학교육페스티벌 2017 (2017.11)</li>
   <ul>
@@ -387,9 +392,6 @@ You can see all the demo videos at the bottom of the page.
   <ul>
    <li>인공지능 관심 분야 기업 부스 방문</li>
   </ul>
-  <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114266231-24b6ce80-9a30-11eb-91ef-1885a98e4f5e.png" width="150%"></center>
-  </figure>
 </ul>
 
 
@@ -397,6 +399,11 @@ You can see all the demo videos at the bottom of the page.
 <br>
 <br>
 <h3>8. Certificate & License</h3>
+
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267559-57b09080-9a37-11eb-9af1-a891b6dce77d.png" width="150%"></center>
+  </figure>
+
 <ul>
   <li>Google Developers Machine Learning Bootcamp 구글 머신러닝 부트캠프 수료증(Google Developers 구글 개발자, 2020.10~)</li>
   <li>TensorFlow Developer Certificate 텐서플로우 개발자 증명서(Tensorflow 텐서플로우, 2021.01~2024.01) <a href="https://www.credential.net/8b7f7f72-8b4c-4f63-a414-96ab33d6e4a4#gs.rqsf0s">Link</a></li>
@@ -406,9 +413,7 @@ You can see all the demo videos at the bottom of the page.
   <li>한자 급수 자격증 3급(대한 상공회의소, 2008)</li>
 </ul>
 
-  <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267559-57b09080-9a37-11eb-9af1-a891b6dce77d.png" width="150%"></center>
-  </figure>
+
 
 <br>
 <br>
@@ -513,17 +518,21 @@ Code - my github source code, Link - my ppt, etc
 <br>
 <br>
 <h3>11. Education</h3>
+
 <ul>
   <li>Yeungnam University <a href="http://www.yu.ac.kr/index.php">Link</a></li>
+  
+  <figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="20%"></center>
+  </figure>
+
   <ul>
     <li>Bachelor of Electronic Engineering (2016.03~2020.02)</li>
     <li>Total GPA of 4.12/4.5 (95.7 percentile)</li>
     <li>graduated 5th out of 106 undergraduates</li>
   </ul>
 </ul>
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114262977-cbde3a80-9a1d-11eb-939a-98611d5f3e97.png" width="20%"></center>
-</figure>
+
 
 <br>
 <br>
