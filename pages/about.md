@@ -201,7 +201,7 @@ You can see all the demo videos at the bottom of the page.
 <h4>1. Control(application)</h4>
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267560-58492700-9a37-11eb-87d6-189a2c6f23ec.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267560-58492700-9a37-11eb-87d6-189a2c6f23ec.png" width="200%"></center>
 </figure>
 
 1. Creating and Control Humanoid Robot(2016.03 ~ 2016.12)  
@@ -231,11 +231,7 @@ You can see all the demo videos at the bottom of the page.
 <h4>2. Control(Basic)</h4>
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267568-5f703500-9a37-11eb-8ea9-65550b6e8a2b.png" width="150%"></center>
-</figure>
-
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267566-5e3f0800-9a37-11eb-9d78-1ef7588ddaf3.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267566-5e3f0800-9a37-11eb-9d78-1ef7588ddaf3.png" width="200%"></center>
 </figure>
 
 1. Control Servo motor Using ATmega128(2016.08)  
@@ -256,6 +252,11 @@ You can see all the demo videos at the bottom of the page.
 <br>
 
 <h4>3. Programs</h4>
+
+<figure>
+   <center><img src="https://user-images.githubusercontent.com/56310078/114267568-5f703500-9a37-11eb-8ea9-65550b6e8a2b.png" width="200%"></center>
+</figure>
+
 1. Programming Book Management System Using Linked List, C(2016.07)  
 <a href="https://nh9k.github.io/programs/Book-Management-System.html">PPT</a>
 2. Creating "We Can Decide" Program for People Who Cannot Decide Easily Using MFC, C++(2017.06)  
@@ -272,7 +273,7 @@ You can see all the demo videos at the bottom of the page.
 <h4>4. Machine Learning</h4>  
 
 <figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267555-55e6cd00-9a37-11eb-9fb8-f35491b854d6.png" width="150%"></center>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267555-55e6cd00-9a37-11eb-9fb8-f35491b854d6.png" width="200%"></center>
 </figure>
   
 1. Transfer Learning of Model Alexnet for Image Classification to Matlab(2018.12)  
