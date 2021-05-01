@@ -234,6 +234,9 @@ You can see all the demo videos at the bottom of the page.
 	<center><img src="https://user-images.githubusercontent.com/56310078/114267568-5f703500-9a37-11eb-8ea9-65550b6e8a2b.png" width="150%"></center>
 </figure>
 
+<figure>
+	<center><img src="https://user-images.githubusercontent.com/56310078/114267566-5e3f0800-9a37-11eb-9d78-1ef7588ddaf3.png" width="150%"></center>
+</figure>
 
 1. Control Servo motor Using ATmega128(2016.08)  
 <a href="https://nh9k.github.io/control/Servo-motor.html">PPT</a>
@@ -248,9 +251,7 @@ You can see all the demo videos at the bottom of the page.
 6. Study RealSense camera(2020.05)  
 <a href="https://blog.naver.com/kimnanhee97/221950612512">Blog</a>  
 
-<figure>
-	<center><img src="https://user-images.githubusercontent.com/56310078/114267566-5e3f0800-9a37-11eb-9d78-1ef7588ddaf3.png" width="150%"></center>
-</figure>
+
 
 <br>
 
